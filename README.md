@@ -2,537 +2,189 @@
 
 > A curated list of crypto debit and credit cards.
 
-Crypto cards let you spend Bitcoin, Ethereum, or stablecoins (USDC, USDT, DAI) at any merchant that takes Visa or Mastercard. Some convert your balance on the fly from a custodial exchange; others charge a self-custody wallet directly on-chain at the moment of purchase. The tradeoffs — KYC, taxes, FX markup, cashback legitimacy — are surprisingly different between those two categories.
+Crypto cards let you spend Bitcoin, Ethereum, or stablecoins (USDC, USDT, DAI) at any merchant that takes Visa or Mastercard. Some convert your balance on the fly from a custodial exchange. Others charge a self-custody wallet directly on-chain when you swipe. The tradeoffs between those two models — KYC, taxes, FX markup, cashback legitimacy — are bigger than most people think.
 
-This list tracks the cards that actually exist and ship to customers. No vaporware, no whitepapers, no "coming Q3 2026" entries. Data is maintained alongside [Sweepbase](https://sweepbase.net), a free comparison tool covering the same 139 cards across 35+ attributes (fees, cashback, top-up methods, mobile pay, regional availability).
+This list only tracks cards that actually ship. No vaporware, no whitepapers, no "coming Q3 2026" entries. The same data powers [Sweepbase](https://sweepbase.net), a free comparison tool covering these 133 cards across 35+ attributes.
 
-Each entry links to a detailed review on Sweepbase and — where available — the official issuer site.
+Each entry has two links: a detailed review on Sweepbase, and — where available — the official issuer site. The [Filters](#filters) section below groups cards by region, custody model, and use case.
 
 ## Contents
 
-- [By Region](#by-region)
-- [By Custody Model](#by-custody-model)
-- [By Use Case](#by-use-case)
+- [Cards](#cards)
+- [Filters](#filters)
 - [Guides and Research](#guides-and-research)
 - [Tools](#tools)
-- [Related Lists](#related-lists)
-- [Contributing](#contributing)
 
-## By Region
+## Cards
 
-Cards group by where their issuer has obtained the relevant e-money or banking licenses. A card may appear in several regions if it ships there. Where a card is restricted to certain US states, that detail is in the linked review, not here.
+Alphabetical. Each entry shows custody model, card type, available regions, cashback (where it's genuine), and the card network. Referral links are marked in the linked reviews; raw affiliate URLs are not in this list.
 
-### USA
+- [1inch Debit Card](https://sweepbase.net/cards/1inch-debit-card) - Self-custody, virtual + physical, UK/EU, 1% in BTC/USDT/1INCH, Mastercard. [Official site](https://1inch.io/card/)
+- [Airtm Card](https://sweepbase.net/cards/airtm-card) - Custodial, virtual only, LatAm, Visa Prepaid. [Official site](https://www.airtm.com)
+- [AmpBlack Card](https://sweepbase.net/cards/ampblack-card) - Self-custody, virtual + physical, 1% cashback, Visa Debit.
+- [Avalanche Card](https://sweepbase.net/cards/avalanche-card) - Self-custody, virtual + physical, AVAX rewards on purchases, Visa. [Official site](https://core.app/card/)
+- [Avici Card](https://sweepbase.net/cards/avici-card) - Self-custody, virtual + physical, USA/LatAm/Asia/AU, Visa Signature. [Official site](https://avici.money/)
+- [Based Card](https://sweepbase.net/cards/based-card) - Custodial, virtual + physical, Points-based system, Visa Prepaid.
+- [Binance Card](https://sweepbase.net/cards/binance-card) - Custodial, virtual + physical, UK/EU/LatAm, up to 2% bnb cashback, Mastercard Prepaid. [Official site](https://www.binance.com/en/cards)
+- [Bing Card](https://sweepbase.net/cards/bing-card) - Custodial, virtual + physical, Canada/LatAm/Asia/AU. [Official site](https://www.bingcard.com/)
+- [BingX Card](https://sweepbase.net/cards/bingx-card) - Custodial, virtual + physical, EU, Mastercard Debit. [Official site](https://bingx.com)
+- [BipTap Card](https://sweepbase.net/cards/biptap-card) - Custodial, virtual + physical, Available, Visa + Mastercard. [Official site](https://biptap.com/cards)
+- [Bit.Store Card](https://sweepbase.net/cards/bitstore-card) - Custodial, virtual + physical, UK/Canada/EU/LatAm/Asia/AU/MENA, Cryptoback rewards on physical card purchases, Visa + Mastercard. [Official site](https://bit.store/)
+- [Bit2Me Card](https://sweepbase.net/cards/bit2me-card) - Custodial, virtual + physical, EU/LatAm, Visa Debit. [Official site](https://bit2me.com/card)
+- [Bitget Card](https://sweepbase.net/cards/bitget-card) - Custodial, virtual + physical, UK/LatAm/Asia/AU, Visa.
+- [Bitpanda Card](https://sweepbase.net/cards/bitpanda-card) - Custodial, virtual + physical, 0-2% cashback tiered by BEST token holdings, Visa. [Official site](https://www.bitpanda.com/en/card)
+- [BitPay Card](https://sweepbase.net/cards/bitpay-card) - Custodial, virtual only, Mastercard. [Official site](https://bitpay.com/card/)
+- [Bitrefill Card](https://sweepbase.net/cards/bitrefill-card) - Custodial, virtual + physical, EU, Visa. [Official site](https://www.bitrefill.com/card/)
+- [Bitsa Card](https://sweepbase.net/cards/bitsa-card) - Custodial, virtual + physical, EU, Visa Prepaid. [Official site](https://bitsacard.com)
+- [Bitstack Card](https://sweepbase.net/cards/bitstack-card) - Custodial, virtual + physical, up to 1% stackback in bitcoin on all eur spending, Visa. [Official site](https://www.bitstack-app.com/en/card)
+- [Bleap Card](https://sweepbase.net/cards/bleap-card) - Self-custody, virtual + physical, EU, 1% base cashback on all purchases in USDC, Mastercard. [Official site](https://www.bleap.finance/en-us/card/crypto-card)
+- [Blockchain.com Card](https://sweepbase.net/cards/blockchaincom-card) - Custodial, virtual + physical, USA, up to 1.5% cashback in crypto, Visa Debit. [Official site](https://www.blockchain.com/card)
+- [Brighty Card](https://sweepbase.net/cards/brighty-card) - Custodial, virtual + physical, EU, up to 1.75%, Visa. [Official site](https://brighty.app/)
+- [Bybit Card](https://sweepbase.net/cards/bybit-card) - Custodial, virtual + physical. [Official site](https://www.bybit.com/en/bybit-card)
+- [Cardano Card](https://sweepbase.net/cards/cardano-card) - Custodial, virtual + physical, up to 8% crypto cashback, Visa. [Official site](https://cardanocard.io/)
+- [CEX.IO Card](https://sweepbase.net/cards/cexio-card) - Custodial, virtual + physical, USA/UK/EU, up to 2% cashback, Visa Debit. [Official site](https://cex.io/cards)
+- [COCA Card](https://sweepbase.net/cards/coca-card) - Virtual + physical, UK/EU/LatAm/Asia, tiered cashback: 1% base, Mastercard (issued via Wirex). [Official site](https://www.coca.xyz/)
+- [Coinbase Card](https://sweepbase.net/cards/coinbase-card) - Custodial, virtual + physical, UK, up to 4% crypto cashback, Visa Debit. [Official site](https://www.coinbase.com/card)
+- [CoinJar Card](https://sweepbase.net/cards/coinjar-card) - Custodial, virtual + physical, UK/AU, Mastercard.
+- [CoinW Card](https://sweepbase.net/cards/coinw-card) - Custodial, virtual + physical, Mastercard Prepaid. [Official site](https://www.coinw.com/crypto-card)
+- [CoinZoom Card](https://sweepbase.net/cards/coinzoom-card) - Custodial, virtual + physical, up to 5% cashback paid in zoom token, Visa Debit. [Official site](https://www.coinzoom.com/)
+- [Crypto.com Visa Card](https://sweepbase.net/cards/cryptocom-visa-card) - Custodial, virtual + physical, USA/UK/Canada/EU/LatAm/Asia/AU, up to 5% cro rewards via staking or subscription, Visa (Standard to Obsidian tiers). [Official site](https://crypto.com/cards)
+- [Cryptomus Card](https://sweepbase.net/cards/cryptomus-card) - Custodial, virtual only, Visa + Mastercard (user choice). [Official site](https://cryptomus.com/cards)
+- [Cryptopay Card](https://sweepbase.net/cards/cryptopay-card) - Custodial, virtual + physical, UK/EU, Visa Prepaid. [Official site](https://cryptopay.me)
+- [Cypher Card](https://sweepbase.net/cards/cypher-card) - Self-custody, virtual + physical, USA/UK/Canada/EU/LatAm/Asia/MENA, up to 35% in cypr tokens, Visa Prepaid. [Official site](https://cypherhq.io/)
+- [Deblock Card](https://sweepbase.net/cards/deblock-card) - Self-custody, virtual + physical, up to 1% cashback on premium/native plans, Visa Debit. [Official site](https://deblock.com/)
+- [Decaf Card](https://sweepbase.net/cards/decaf-card) - Self-custody, virtual + physical, Visa Debit. [Official site](https://www.decaf.so/en/card)
+- [Decard Card](https://sweepbase.net/cards/decard-card) - Custodial, virtual + physical, Asia, Available, Visa (Premium metal: Luminaries). [Official site](https://thedecard.com/)
+- [Emoney Card](https://sweepbase.net/cards/emoney-card) - Custodial, physical, Mastercard (Smart and Premium tiers). [Official site](https://cards.emoney.io/)
+- [Ether.fi Cash Card](https://sweepbase.net/cards/etherfi-cash-card) - Self-custody, virtual + physical, USA/UK/Canada/EU/LatAm/Asia/AU/MENA, up to 3% cashback, Visa Signature. [Official site](https://app.ether.fi/cash)
+- [Eversend Card](https://sweepbase.net/cards/eversend-card) - Custodial, virtual only, Mastercard Prepaid. [Official site](https://eversend.co)
+- [Exa Card](https://sweepbase.net/cards/exa-card) - Self-custody, virtual + physical, Visa Signature. [Official site](https://exactly.app/)
+- [Exodus Card](https://sweepbase.net/cards/exodus-card) - Self-custody, virtual only, EU/LatAm, Mastercard. [Official site](https://www.exodus.com/)
+- [Extsy Card](https://sweepbase.net/cards/extsy-card) - Custodial, virtual only, Promotional offers available, Mastercard + Visa. [Official site](https://extsy.com/extsy-card)
+- [Fiat24 Card](https://sweepbase.net/cards/fiat24-card) - Self-custody, virtual only, Mastercard Debit. [Official site](https://fiat24.com/)
+- [Fizen Card](https://sweepbase.net/cards/fizen-card) - Custodial, virtual + physical, 8% in $FIZEN token, Visa. [Official site](https://fizen.io/)
+- [Fold Card](https://sweepbase.net/cards/fold-card) - Custodial, virtual + physical, USA, up to 2% back in bitcoin, Visa Credit Card. [Official site](https://foldapp.com/)
+- [Fuse Card](https://sweepbase.net/cards/fuse-card) - Self-custody, virtual only, USA/LatAm, Visa Prepaid. [Official site](https://fusewallet.com/)
+- [Gate Card](https://sweepbase.net/cards/gate-card) - Custodial, virtual + physical, EU, up to 5% cashback via t0-t4 tiered system, Visa. [Official site](https://www.gate.io/card)
+- [Gemini Credit Card](https://sweepbase.net/cards/gemini-credit-card) - Custodial, virtual + physical, Mastercard Credit. [Official site](https://www.gemini.com/credit-card)
+- [Gnosis Pay Card](https://sweepbase.net/cards/gnosis-pay-card) - Self-custody, virtual + physical, UK/EU/LatAm, up to 5% in gno tokens, Visa Debit. [Official site](https://gnosispay.com/)
+- [Hi.com Card](https://sweepbase.net/cards/hicom-card) - Custodial, virtual + physical, UK/EU, tiered cashback: basic 1%, Mastercard Debit. [Official site](https://hi.com)
+- [HODL Card](https://sweepbase.net/cards/hodl-card) - Custodial, physical, USA/EU, Mastercard Debit. [Official site](https://clubswan.com)
+- [Holyheld Card](https://sweepbase.net/cards/holyheld-card) - Virtual + physical, EU, 0.5-1% USDC cashback, Mastercard Prepaid. [Official site](https://holyheld.com/)
+- [imToken Card](https://sweepbase.net/cards/imtoken-card) - Self-custody, virtual + physical, Mastercard. [Official site](https://token.im/)
+- [Jupiter Card](https://sweepbase.net/cards/jupiter-card) - Self-custody, virtual only, Visa. [Official site](https://landing.global.jup.ag/)
+- [Kardpay Card](https://sweepbase.net/cards/kardpay-card) - Custodial, virtual only, USA/UK/Canada/EU/LatAm/Asia/AU/MENA, KDY staking provides fee discounts, Visa + Mastercard prepaid. [Official site](https://www.kardpay.app/)
+- [Karta Card](https://sweepbase.net/cards/karta-card) - Custodial, virtual only, LatAm/Asia, Visa Signature. [Official site](https://karta.io/)
+- [KAST Card](https://sweepbase.net/cards/kast-card) - Custodial, virtual + physical, Season 6, Visa Prepaid. [Official site](https://www.kast.xyz/crypto-cards)
+- [Kazepay Card](https://sweepbase.net/cards/kazepay-card) - Custodial, virtual + physical, Visa + Mastercard Prepaid. [Official site](https://kazepay.com/)
+- [Kemy Card](https://sweepbase.net/cards/kemy-card) - Custodial, virtual + physical, USA/UK/Canada/EU/LatAm/Asia/AU/MENA, Visa + Mastercard Prepaid. [Official site](https://kemycard.com/en/home)
+- [Keytom Card](https://sweepbase.net/cards/keytom-card) - Custodial, virtual only, Visa + Mastercard (user choice). [Official site](https://keytom.com/card)
+- [Kolo Card](https://sweepbase.net/cards/kolo-card) - Virtual + physical, UK/Canada/EU/LatAm/Asia/AU/MENA, 2% BTC cashback standard, Visa + Mastercard Prepaid.
+- [Kontigo Card](https://sweepbase.net/cards/kontigo-card) - Self-custody, virtual + physical, USA/EU/LatAm, Bitcoin cashback on card spending, Mastercard Prepaid. [Official site](https://www.kontigo.com/)
+- [Krak Card](https://sweepbase.net/cards/krak-card) - Custodial, virtual + physical, UK/EU, up to 1% in fiat or btc, Mastercard Debit. [Official site](https://www.kraken.com/krak/card)
+- [Kraken Card](https://sweepbase.net/cards/kraken-card) - Custodial, virtual + physical, 1% cashback in BTC or fiat, Mastercard Debit. [Official site](https://www.kraken.com/)
+- [Kripi Card](https://sweepbase.net/cards/kripi-card) - Custodial, virtual only, USA/UK/Canada/EU/LatAm/Asia/AU/MENA, fee discounts up to 50% when staking kripi tokens, Visa + Mastercard Prepaid. [Official site](https://kripicard.com/)
+- [KuCard](https://sweepbase.net/cards/kucard) - Custodial, virtual + physical, EU, 1-3% base, Visa Debit. [Official site](https://www.kucoin.com/kucard)
+- [Ledger Card](https://sweepbase.net/cards/ledger-card) - Self-custody, virtual + physical, USA/UK/Canada/LatAm, 1% cashback in BTC or USDC, Visa Debit. [Official site](https://www.ledger.com/)
+- [Lemon Card](https://sweepbase.net/cards/lemon-card) - Custodial, virtual + physical, LatAm, up to 5% cashback in btc/eth, Visa Debit. [Official site](https://lemon.me)
+- [MaxSwap Card](https://sweepbase.net/cards/maxswap-card) - Custodial, virtual only, Mastercard Prepaid. [Official site](https://maxswap.com/)
+- [Mercuryo Spend Card](https://sweepbase.net/cards/mercuryo-spend-card) - Self-custody, virtual only, EU, Mastercard Debit. [Official site](https://mercuryo.io/spend)
+- [MetaMask Card](https://sweepbase.net/cards/metamask-card) - Self-custody, virtual + physical, USA/UK/Canada/EU/LatAm, virtual: 1% musd cashback, Mastercard Debit. [Official site](https://portfolio.metamask.io/card)
+- [Mobilum Card](https://sweepbase.net/cards/mobilum-card) - Custodial, virtual + physical, EU, Mastercard Prepaid. [Official site](https://www.mobilum.com/en/cards)
+- [Moonwell Card](https://sweepbase.net/cards/moonwell-card) - Self-custody, virtual + physical, USA/UK/LatAm, Visa Debit. [Official site](https://card.moonwell.fi/)
+- [Morph Card](https://sweepbase.net/cards/morph-card) - Self-custody, physical, Asia, Mastercard Debit. [Official site](https://morph.network)
+- [Nebeus Card](https://sweepbase.net/cards/nebeus-card) - Custodial, virtual + physical, USA/UK/Canada/EU/LatAm/Asia/AU/MENA, Likely discontinued, Mastercard Debit. [Official site](https://nebeus.com/)
+- [Nexo Card](https://sweepbase.net/cards/nexo-card) - Custodial, virtual + physical, up to 2% in nexo tokens or 0.5% in btc, Mastercard Credit/Debit. [Official site](https://nexo.com/card)
+- [Noones Card](https://sweepbase.net/cards/noones-card) - Custodial, virtual only, Asia, Visa Prepaid. [Official site](https://noones.com)
+- [OffGrid Card](https://sweepbase.net/cards/offgrid-card) - Custodial, virtual only, Visa Prepaid. [Official site](https://www.offgrid.cash/)
+- [Offramp Card](https://sweepbase.net/cards/offramp-card) - Self-custody, virtual + physical, Visa Prepaid. [Official site](https://www.offramp.xyz/)
+- [OKX Card](https://sweepbase.net/cards/okx-card) - Custodial, virtual only, EU/LatAm, Launch promotion, Mastercard Debit. [Official site](https://www.okx.com/)
+- [Onboard Card](https://sweepbase.net/cards/onboard-card) - Custodial, virtual only, USA/UK/Canada/EU/LatAm/Asia/AU/MENA, 1 USDC per transaction $10-$1000, Visa Prepaid. [Official site](https://www.onboard.xyz/)
+- [Oobit Card](https://sweepbase.net/cards/oobit-card) - Self-custody, virtual + physical, USA/UK/Canada/EU/Asia/AU/MENA, 2% base cashback in stablecoins, Visa Debit. [Official site](https://oobit.com/)
+- [Orbitx Card](https://sweepbase.net/cards/orbitx-card) - Self-custody, virtual + physical, Visa Signature. [Official site](https://orbitxpay.com/)
+- [Osmosis Pay Card](https://sweepbase.net/cards/osmosis-pay-card) - Self-custody, virtual + physical, UK/Canada/EU/LatAm/Asia/AU/MENA, Visa Prepaid. [Official site](https://pay.osmosis.zone/)
+- [Payy Card](https://sweepbase.net/cards/payy-card) - Self-custody, virtual + physical, Visa. [Official site](https://payy.network/)
+- [Phantom Cash Card](https://sweepbase.net/cards/phantom-cash-card) - Self-custody, virtual only, USA, Visa Prepaid. [Official site](https://phantom.com/cash)
+- [Pintopay Card](https://sweepbase.net/cards/pintopay-card) - Custodial, virtual + physical, USA/UK/Canada/EU/LatAm, Visa + Mastercard Prepaid.
+- [Plasma One Card](https://sweepbase.net/cards/plasma-one-card) - Self-custody, virtual + physical, up to 4% in xpl tokens, Visa Prepaid. [Official site](https://www.plasma.to/one)
+- [Plutus Card](https://sweepbase.net/cards/plutus-card) - Custodial, virtual + physical, UK/EU, Visa Debit. [Official site](https://plutus.it/)
+- [Pyra Card](https://sweepbase.net/cards/pyra-card) - Self-custody, virtual + physical, Visa Credit. [Official site](https://www.pyra.fi/)
+- [Ready Card](https://sweepbase.net/cards/ready-card) - Self-custody, virtual + physical, UK/EU, Mastercard Debit. [Official site](https://www.ready.co/card)
+- [Rebind Card](https://sweepbase.net/cards/rebind-card) - Self-custody, physical, UK/EU, up to 5% in gno tokens, Visa Debit. [Official site](https://rebind.co/)
+- [RedotPay Card](https://sweepbase.net/cards/redotpay-card) - Custodial, virtual + physical, UK/EU/LatAm/MENA, Varies by promotional programs, Visa Prepaid. [Official site](https://www.redotpay.com/)
+- [Revolut Card](https://sweepbase.net/cards/revolut-card) - Custodial, virtual + physical, metal/ultra: 0.1% in europe and 1% outside europe, Visa + Mastercard Debit. [Official site](https://www.revolut.com/)
+- [Ripio Card](https://sweepbase.net/cards/ripio-card) - Custodial, virtual + physical, LatAm, Visa Debit. [Official site](https://ripio.com)
+- [Rizon Card](https://sweepbase.net/cards/rizon-card) - Self-custody, virtual + physical, USA/UK/Canada/LatAm/Asia/AU/MENA, Visa Debit. [Official site](https://www.getrizon.com/card)
+- [SafePal Card](https://sweepbase.net/cards/safepal-card) - Custodial, virtual + physical, Mastercard Debit. [Official site](https://www.safepal.com/)
+- [Shakepay Card](https://sweepbase.net/cards/shakepay-card) - Custodial, virtual + physical, Canada, up to 4% bitcoin cashback, Visa Prepaid. [Official site](https://shakepay.com/card)
+- [Solayer Card](https://sweepbase.net/cards/solayer-card) - Self-custody, virtual + physical, USA/LatAm/Asia/MENA, 1% ongoing cashback + Emerald Points, Visa Debit. [Official site](https://solayer.org/product/card)
+- [SolCard](https://sweepbase.net/cards/solcard) - Custodial, virtual only, SOLC stakers earn cashback in SOLC or SOL tokens, Visa + Mastercard Prepaid. [Official site](https://www.solcard.cc/)
+- [Solflare Card](https://sweepbase.net/cards/solflare-card) - Self-custody, virtual + physical, UK/EU, Mastercard Debit. [Official site](https://solflare.com/)
+- [Solid Card](https://sweepbase.net/cards/solid-card) - Self-custody, virtual + physical, 2% in FUSE tokens, Visa Debit. [Official site](https://www.solid.xyz/card)
+- [SpectroCoin Card](https://sweepbase.net/cards/spectrocoin-card) - Custodial, virtual + physical, UK/EU, Visa Debit. [Official site](https://spectrocoin.com)
+- [Spritz Card](https://sweepbase.net/cards/spritz-card) - Virtual + physical, USA/UK/Canada/EU/LatAm/Asia/AU/MENA, Visa Signature Credit. [Official site](https://www.spritz.finance/)
+- [Stables Card](https://sweepbase.net/cards/stables-card) - Custodial, virtual + physical, AU, Visa Prepaid. [Official site](https://stables.money)
+- [SwissBorg Card](https://sweepbase.net/cards/swissborg-card) - Custodial, virtual + physical, UK/EU, up to 2% cashback, Mastercard Debit. [Official site](https://swissborg.com/card)
+- [Swissquote Card](https://sweepbase.net/cards/swissquote-card) - Custodial, physical, EU, up to 1% cashback, Mastercard Debit. [Official site](https://www.swissquote.com/card)
+- [Tangem Pay Card](https://sweepbase.net/cards/tangem-pay-card) - Self-custody, virtual only, USA/EU/LatAm/Asia/AU/MENA, Visa Prepaid. [Official site](https://tangem.com/en/tangem-pay/)
+- [Tap Card](https://sweepbase.net/cards/tap-card) - Custodial, virtual + physical, Mastercard Debit. [Official site](https://www.tap.global/)
+- [TapX Card](https://sweepbase.net/cards/tapx-card) - Self-custody, virtual + physical, None disclosed, Visa + Mastercard Prepaid. [Official site](https://tapxcard.io/)
+- [THORWallet Card](https://sweepbase.net/cards/thorwallet-card) - Self-custody, virtual only, UK/Canada/EU/LatAm/Asia/AU, TITN staking-based cashback, Mastercard Debit. [Official site](https://www.thorwallet.org/)
+- [TokenPocket Card](https://sweepbase.net/cards/tokenpocket-card) - Self-custody, virtual only, Canada/Asia/AU, Visa + Mastercard Debit. [Official site](https://www.tokenpocket.pro/)
+- [Trade Republic Card](https://sweepbase.net/cards/trade-republic-card) - Custodial, physical, Visa Debit. [Official site](https://traderepublic.com/)
+- [Tria Card](https://sweepbase.net/cards/tria-card) - Self-custody, virtual + physical, USA/UK/Canada/EU/LatAm/Asia/AU/MENA, Visa Signature.
+- [Trustee Card](https://sweepbase.net/cards/trustee-card) - Custodial, virtual + physical, EU, Mastercard Debit.
+- [Tuyo Card](https://sweepbase.net/cards/tuyo-card) - Self-custody, virtual only, USA/UK/Canada/EU/LatAm, TUYO rewards tokens, Visa Debit.
+- [UltimoPay Card](https://sweepbase.net/cards/ultimopay-card) - Custodial, virtual + physical, Visa + UnionPay. [Official site](https://ultimopay.io/debit-card/)
+- [Uphold Card](https://sweepbase.net/cards/uphold-card) - Custodial, virtual + physical, us elite: 4% in xrp, Visa (US) / Mastercard (UK). [Official site](https://uphold.com/)
+- [UR Card](https://sweepbase.net/cards/ur-card) - Virtual only, Mastercard Debit. [Official site](https://ur.app/)
+- [Utorg Card](https://sweepbase.net/cards/utorg-card) - Self-custody, virtual only, UK/EU, Visa + Mastercard Prepaid. [Official site](https://utorg.pro/)
+- [Venmo Credit Card](https://sweepbase.net/cards/venmo-credit-card) - Custodial, physical, 3% top category, Visa Signature. [Official site](https://venmo.com/about/creditcard/)
+- [Volet Card](https://sweepbase.net/cards/volet-card) - Custodial, virtual + physical. [Official site](https://volet.com)
+- [Wayex Card](https://sweepbase.net/cards/wayex-card) - Custodial, virtual + physical, advertised up to 8% cashback in x-points, Visa Debit. [Official site](https://wayex.com/)
+- [Wealthsimple Card](https://sweepbase.net/cards/wealthsimple-card) - Custodial, virtual + physical, Canada, 1% cashback, Visa Debit. [Official site](https://wealthsimple.com)
+- [WhiteBIT Card](https://sweepbase.net/cards/whitebit-card) - Custodial, virtual + physical, UK/EU, Visa Debit. [Official site](https://whitebit.com/)
+- [Wirex Card](https://sweepbase.net/cards/wirex-card) - Custodial, virtual + physical, up to 8% in wxt tokens, Mastercard Debit (Visa in some regions). [Official site](https://wirexapp.com/)
+- [Wise Card](https://sweepbase.net/cards/wise-card) - Custodial, virtual + physical, USA/UK/Canada/EU/LatAm/Asia/AU, Visa Debit. [Official site](https://wise.com/card)
+- [Xapo Bank Card](https://sweepbase.net/cards/xapo-bank-card) - Custodial, virtual + physical, up to 1.0% btc cashback, Visa + Mastercard Debit. [Official site](https://www.xapo.com/)
+- [Xplace Card](https://sweepbase.net/cards/xplace-card) - Self-custody, virtual + physical, 0.5-2% real-time USDC cashback, Visa Credit.
+- [xPortal Card](https://sweepbase.net/cards/xportal-card) - Self-custody, virtual + physical, EU, up to 0.5% with egld staking, Mastercard Prepaid. [Official site](https://xportal.com/)
+- [YouHodler Card](https://sweepbase.net/cards/youhodler-card) - Custodial, virtual + physical, EU, up to 5%. [Official site](https://www.youhodler.com/crypto-card)
+- [Zebec Card](https://sweepbase.net/cards/zebec-card) - Virtual only, USA/UK/Canada/EU/LatAm/Asia/AU/MENA, up to 5-7% zbcn cashback + weekly crypto airdrops, Mastercard Prepaid. [Official site](https://zebec.io/)
+- [Zypto Card](https://sweepbase.net/cards/zypto-card) - Self-custody, virtual + physical, USA/UK/Canada/EU/LatAm/Asia/AU/MENA, ZYP reward points on card spending, Visa Signature + Mastercard Prepaid. [Official site](https://zypto.com/)
 
-Most US-available cards are custodial exchange products. Each transaction is a taxable disposition under current IRS guidance — factor that in.
+## Filters
 
-- [Avici Card](https://sweepbase.net/cards/avici-card) - Virtual + Physical, self-custody, 0% Avici fee, Visa Signature. [[Official]](https://avici.money/)
-- [Blockchain.com Card](https://sweepbase.net/cards/blockchaincom-card) - Virtual + Physical, custodial, Up to 1.5% cashback in crypto, Visa Debit. [[Official]](https://www.blockchain.com/card)
-- [CEX.IO Card](https://sweepbase.net/cards/cexio-card) - Virtual + Physical, custodial, Up to 2% cashback, Visa Debit. [[Official]](https://cex.io/cards)
-- [Crypto.com Visa Card](https://sweepbase.net/cards/cryptocom-visa-card) - Virtual + Physical, custodial, Up to 5% CRO rewards via staking or subscription, Visa (Standard to Obsidian tiers). [[Official]](https://crypto.com/cards)
-- [Cypher Card](https://sweepbase.net/cards/cypher-card) - Virtual + Physical, self-custody, Up to 35% in CYPR tokens, Standard 1.75% FX. [[Official]](https://cypherhq.io/)
-- [Ether.fi Cash Card](https://sweepbase.net/cards/etherfi-cash-card) - Virtual + Physical, self-custody, Up to 3% cashback, Visa Signature. [[Official]](https://app.ether.fi/cash)
-- [Fold Card](https://sweepbase.net/cards/fold-card) - Virtual + Physical, custodial, Up to 2% back in Bitcoin, Visa Credit Card. [[Official]](https://foldapp.com/)
-- [Fuse Card](https://sweepbase.net/cards/fuse-card) - Virtual only, self-custody, Standard Visa rates, ~1% FX, Visa Prepaid. [[Official]](https://fusewallet.com/)
-- [HODL Card](https://sweepbase.net/cards/hodl-card) - Physical, custodial, Mastercard Debit. [[Official]](https://clubswan.com)
-- [Kardpay Card](https://sweepbase.net/cards/kardpay-card) - Virtual only, custodial, KDY staking provides fee discounts, Standard network rates FX. [[Official]](https://www.kardpay.app/)
-- [Kemy Card](https://sweepbase.net/cards/kemy-card) - Virtual + Physical, custodial, 8% crypto top-up fee, Visa + Mastercard Prepaid. [[Official]](https://kemycard.com/en/home)
-- [Kontigo Card](https://sweepbase.net/cards/kontigo-card) - Virtual + Physical, self-custody, Bitcoin cashback on card spending, Mastercard Prepaid. [[Official]](https://www.kontigo.com/)
-- [Kripi Card](https://sweepbase.net/cards/kripi-card) - Virtual only, custodial, Fee discounts up to 50% when staking KRIPI tokens, Visa + Mastercard Prepaid. [[Official]](https://kripicard.com/)
-- [Ledger Card](https://sweepbase.net/cards/ledger-card) - Virtual + Physical, self-custody, 1% cashback in BTC or USDC, Standard Visa FX rates. [[Official]](https://www.ledger.com/)
-- [MetaMask Card](https://sweepbase.net/cards/metamask-card) - Virtual + Physical, self-custody, Virtual: 1% mUSD cashback, Mastercard Debit. [[Official]](https://portfolio.metamask.io/card)
-- [Moonwell Card](https://sweepbase.net/cards/moonwell-card) - Virtual + Physical, self-custody, Visa Debit. [[Official]](https://card.moonwell.fi/)
-- [Nebeus Card](https://sweepbase.net/cards/nebeus-card) - Virtual + Physical, custodial, Likely discontinued, 0% foreign exchange fee. [[Official]](https://nebeus.com/)
-- [Onboard Card](https://sweepbase.net/cards/onboard-card) - Virtual only, custodial, 1 USDC per transaction $10-$1000, Visa Prepaid. [[Official]](https://www.onboard.xyz/)
-- [Oobit Card](https://sweepbase.net/cards/oobit-card) - Virtual + Physical, self-custody, 2% base cashback in stablecoins, Visa Debit. [[Official]](https://oobit.com/)
-- [Phantom Cash Card](https://sweepbase.net/cards/phantom-cash-card) - Virtual only, self-custody, Standard Visa FX rates, Visa Prepaid. [[Official]](https://phantom.com/cash)
-- [Pintopay Card](https://sweepbase.net/cards/pintopay-card) - Virtual + Physical, custodial, Visa + Mastercard Prepaid.
-- [Rizon Card](https://sweepbase.net/cards/rizon-card) - Virtual + Physical, self-custody, 2.5% + $0.10 on non-USD FX, Visa Debit. [[Official]](https://www.getrizon.com/card)
-- [Solayer Card](https://sweepbase.net/cards/solayer-card) - Virtual + Physical, self-custody, 1% ongoing cashback + Emerald Points, $0.10 + 1.5% FX fee. [[Official]](https://solayer.org/product/card)
-- [Spritz Card](https://sweepbase.net/cards/spritz-card) - Virtual + Physical, Visa Signature Credit. [[Official]](https://www.spritz.finance/)
-- [Tangem Pay Card](https://sweepbase.net/cards/tangem-pay-card) - Virtual only, self-custody, 0% Tangem markup FX, Visa Prepaid. [[Official]](https://tangem.com/en/tangem-pay/)
-- [Tria Card](https://sweepbase.net/cards/tria-card) - Virtual + Physical, self-custody, 1% intl fee, Visa Signature.
-- [Tuyo Card](https://sweepbase.net/cards/tuyo-card) - Virtual only, self-custody, TUYO rewards tokens, Standard Visa rates FX.
-- [Wise Card](https://sweepbase.net/cards/wise-card) - Virtual + Physical, custodial, 0.33-3.5% FX, Visa Debit. [[Official]](https://wise.com/card)
-- [Zebec Card](https://sweepbase.net/cards/zebec-card) - Virtual only, Up to 5-7% ZBCN cashback + weekly crypto airdrops, Mastercard Prepaid. [[Official]](https://zebec.io/)
-- [Zypto Card](https://sweepbase.net/cards/zypto-card) - Virtual + Physical, self-custody, ZYP reward points on card spending, 1.75% FX fee. [[Official]](https://zypto.com/)
+Card names below reference entries in the [Cards](#cards) section above. Counts reflect how many cards qualify for each filter, not how many are "best".
 
-### United Kingdom
+### By Region
 
-Post-FCA-2024 the surviving options skew toward regulated exchanges and e-money institutions.
+Where a card ships and holds relevant licenses. Cards often appear in several regions; for state-level US restrictions or country-level EU carve-outs, see the linked review.
 
-- [1inch Debit Card](https://sweepbase.net/cards/1inch-debit-card) - Virtual + Physical, self-custody, 1% in BTC/USDT/1INCH, 2% card spend fee. [[Official]](https://1inch.io/card/)
-- [Binance Card](https://sweepbase.net/cards/binance-card) - Virtual + Physical, custodial, Up to 2% BNB cashback, Mastercard Prepaid. [[Official]](https://www.binance.com/en/cards)
-- [Bit.Store Card](https://sweepbase.net/cards/bitstore-card) - Virtual + Physical, custodial, Cryptoback rewards on physical card purchases, Visa + Mastercard. [[Official]](https://bit.store/)
-- [Bitget Card](https://sweepbase.net/cards/bitget-card) - Virtual + Physical, custodial, Visa.
-- [CEX.IO Card](https://sweepbase.net/cards/cexio-card) - Virtual + Physical, custodial, Up to 2% cashback, Visa Debit. [[Official]](https://cex.io/cards)
-- [COCA Card](https://sweepbase.net/cards/coca-card) - Virtual + Physical, Tiered cashback: 1% base, 0% FX fees, Mastercard (issued via Wirex). [[Official]](https://www.coca.xyz/)
-- [Coinbase Card](https://sweepbase.net/cards/coinbase-card) - Virtual + Physical, custodial, Up to 4% crypto cashback, Visa Debit. [[Official]](https://www.coinbase.com/card)
-- [CoinJar Card](https://sweepbase.net/cards/coinjar-card) - Virtual + Physical, custodial, Mastercard.
-- [Crypto.com Visa Card](https://sweepbase.net/cards/cryptocom-visa-card) - Virtual + Physical, custodial, Up to 5% CRO rewards via staking or subscription, Visa (Standard to Obsidian tiers). [[Official]](https://crypto.com/cards)
-- [Cryptopay Card](https://sweepbase.net/cards/cryptopay-card) - Virtual + Physical, custodial, 3% FX, Visa Prepaid. [[Official]](https://cryptopay.me)
-- [Cypher Card](https://sweepbase.net/cards/cypher-card) - Virtual + Physical, self-custody, Up to 35% in CYPR tokens, Standard 1.75% FX. [[Official]](https://cypherhq.io/)
-- [Ether.fi Cash Card](https://sweepbase.net/cards/etherfi-cash-card) - Virtual + Physical, self-custody, Up to 3% cashback, Visa Signature. [[Official]](https://app.ether.fi/cash)
-- [Gnosis Pay Card](https://sweepbase.net/cards/gnosis-pay-card) - Virtual + Physical, self-custody, Up to 5% in GNO tokens, Visa Debit. [[Official]](https://gnosispay.com/)
-- [Hi.com Card](https://sweepbase.net/cards/hicom-card) - Virtual + Physical, custodial, Tiered cashback: Basic 1%, 0.2% FX. [[Official]](https://hi.com)
-- [Kardpay Card](https://sweepbase.net/cards/kardpay-card) - Virtual only, custodial, KDY staking provides fee discounts, Standard network rates FX. [[Official]](https://www.kardpay.app/)
-- [Kemy Card](https://sweepbase.net/cards/kemy-card) - Virtual + Physical, custodial, 8% crypto top-up fee, Visa + Mastercard Prepaid. [[Official]](https://kemycard.com/en/home)
-- [Kolo Card](https://sweepbase.net/cards/kolo-card) - Virtual + Physical, 2% BTC cashback standard, 0% FX fees, Visa + Mastercard Prepaid.
-- [Krak Card](https://sweepbase.net/cards/krak-card) - Virtual + Physical, custodial, Up to 1% in fiat or BTC, 0% FX. [[Official]](https://www.kraken.com/krak/card)
-- [Kripi Card](https://sweepbase.net/cards/kripi-card) - Virtual only, custodial, Fee discounts up to 50% when staking KRIPI tokens, Visa + Mastercard Prepaid. [[Official]](https://kripicard.com/)
-- [Ledger Card](https://sweepbase.net/cards/ledger-card) - Virtual + Physical, self-custody, 1% cashback in BTC or USDC, Standard Visa FX rates. [[Official]](https://www.ledger.com/)
-- [MetaMask Card](https://sweepbase.net/cards/metamask-card) - Virtual + Physical, self-custody, Virtual: 1% mUSD cashback, Mastercard Debit. [[Official]](https://portfolio.metamask.io/card)
-- [Moonwell Card](https://sweepbase.net/cards/moonwell-card) - Virtual + Physical, self-custody, Visa Debit. [[Official]](https://card.moonwell.fi/)
-- [Nebeus Card](https://sweepbase.net/cards/nebeus-card) - Virtual + Physical, custodial, Likely discontinued, 0% foreign exchange fee. [[Official]](https://nebeus.com/)
-- [Onboard Card](https://sweepbase.net/cards/onboard-card) - Virtual only, custodial, 1 USDC per transaction $10-$1000, Visa Prepaid. [[Official]](https://www.onboard.xyz/)
-- [Oobit Card](https://sweepbase.net/cards/oobit-card) - Virtual + Physical, self-custody, 2% base cashback in stablecoins, Visa Debit. [[Official]](https://oobit.com/)
-- [Osmosis Pay Card](https://sweepbase.net/cards/osmosis-pay-card) - Virtual + Physical, self-custody, Standard 2% FX, Visa Prepaid. [[Official]](https://pay.osmosis.zone/)
-- [Pintopay Card](https://sweepbase.net/cards/pintopay-card) - Virtual + Physical, custodial, Visa + Mastercard Prepaid.
-- [Plutus Card](https://sweepbase.net/cards/plutus-card) - Virtual + Physical, custodial, Visa Debit. [[Official]](https://plutus.it/)
-- [Ready Card](https://sweepbase.net/cards/ready-card) - Virtual + Physical, self-custody, 0% markup FX, Mastercard Debit. [[Official]](https://www.ready.co/card)
-- [Rebind Card](https://sweepbase.net/cards/rebind-card) - Physical, self-custody, Up to 5% in GNO tokens, Visa Debit. [[Official]](https://rebind.co/)
-- [RedotPay Card](https://sweepbase.net/cards/redotpay-card) - Virtual + Physical, custodial, Varies by promotional programs, Visa Prepaid. [[Official]](https://www.redotpay.com/)
-- [Rizon Card](https://sweepbase.net/cards/rizon-card) - Virtual + Physical, self-custody, 2.5% + $0.10 on non-USD FX, Visa Debit. [[Official]](https://www.getrizon.com/card)
-- [Solflare Card](https://sweepbase.net/cards/solflare-card) - Virtual + Physical, self-custody, Mastercard Debit. [[Official]](https://solflare.com/)
-- [SpectroCoin Card](https://sweepbase.net/cards/spectrocoin-card) - Virtual + Physical, custodial, 0% FX, Visa Debit. [[Official]](https://spectrocoin.com)
-- [Spritz Card](https://sweepbase.net/cards/spritz-card) - Virtual + Physical, Visa Signature Credit. [[Official]](https://www.spritz.finance/)
-- [SwissBorg Card](https://sweepbase.net/cards/swissborg-card) - Virtual + Physical, custodial, Up to 2% cashback, 0% within EU FX. [[Official]](https://swissborg.com/card)
-- [THORWallet Card](https://sweepbase.net/cards/thorwallet-card) - Virtual only, self-custody, TITN staking-based cashback, Mastercard Debit. [[Official]](https://www.thorwallet.org/)
-- [Tria Card](https://sweepbase.net/cards/tria-card) - Virtual + Physical, self-custody, 1% intl fee, Visa Signature.
-- [Tuyo Card](https://sweepbase.net/cards/tuyo-card) - Virtual only, self-custody, TUYO rewards tokens, Standard Visa rates FX.
-- [Utorg Card](https://sweepbase.net/cards/utorg-card) - Virtual only, self-custody, Visa + Mastercard Prepaid. [[Official]](https://utorg.pro/)
-- [WhiteBIT Card](https://sweepbase.net/cards/whitebit-card) - Virtual + Physical, custodial, Standard Visa FX rates, Visa Debit. [[Official]](https://whitebit.com/)
-- [Wise Card](https://sweepbase.net/cards/wise-card) - Virtual + Physical, custodial, 0.33-3.5% FX, Visa Debit. [[Official]](https://wise.com/card)
-- [Zebec Card](https://sweepbase.net/cards/zebec-card) - Virtual only, Up to 5-7% ZBCN cashback + weekly crypto airdrops, Mastercard Prepaid. [[Official]](https://zebec.io/)
-- [Zypto Card](https://sweepbase.net/cards/zypto-card) - Virtual + Physical, self-custody, ZYP reward points on card spending, 1.75% FX fee. [[Official]](https://zypto.com/)
+- **USA** (30): Avici, Blockchain.com, CEX.IO, Crypto.com Visa, Cypher, Ether.fi Cash, Fold, Fuse, HODL, Kardpay, Kemy, Kontigo, Kripi, Ledger, MetaMask, Moonwell, Nebeus, Onboard, Oobit, Phantom Cash, Pintopay, Rizon, Solayer, Spritz, Tangem Pay, Tria, Tuyo, Wise, Zebec, Zypto
+- **United Kingdom** (44): 1inch Debit, Binance, Bit.Store, Bitget, CEX.IO, COCA, Coinbase, CoinJar, Crypto.com Visa, Cryptopay, Cypher, Ether.fi Cash, Gnosis Pay, Hi.com, Kardpay, Kemy, Kolo, Krak, Kripi, Ledger, MetaMask, Moonwell, Nebeus, Onboard, Oobit, Osmosis Pay, Pintopay, Plutus, Ready, Rebind, RedotPay, Rizon, Solflare, SpectroCoin, Spritz, SwissBorg, THORWallet, Tria, Tuyo, Utorg, WhiteBIT, Wise, Zebec, Zypto
+- **Europe (EEA)** (58): 1inch Debit, Binance, BingX, Bit.Store, Bit2Me, Bitrefill, Bitsa, Bleap, Brighty, CEX.IO, COCA, Crypto.com Visa, Cryptopay, Cypher, Ether.fi Cash, Exodus, Gate, Gnosis Pay, Hi.com, HODL, Holyheld, Kardpay, Kemy, Kolo, Kontigo, Krak, Kripi, KuCard, Mercuryo Spend, MetaMask, Mobilum, Nebeus, OKX, Onboard, Oobit, Osmosis Pay, Pintopay, Plutus, Ready, Rebind, RedotPay, Solflare, SpectroCoin, Spritz, SwissBorg, Swissquote, Tangem Pay, THORWallet, Tria, Trustee, Tuyo, Utorg, WhiteBIT, Wise, xPortal, YouHodler, Zebec, Zypto
+- **Canada** (27): Bing, Bit.Store, Crypto.com Visa, Cypher, Ether.fi Cash, Kardpay, Kemy, Kolo, Kripi, Ledger, MetaMask, Nebeus, Onboard, Oobit, Osmosis Pay, Pintopay, Rizon, Shakepay, Spritz, THORWallet, TokenPocket, Tria, Tuyo, Wealthsimple, Wise, Zebec, Zypto
+- **Latin America** (41): Airtm, Avici, Binance, Bing, Bit.Store, Bit2Me, Bitget, COCA, Crypto.com Visa, Cypher, Ether.fi Cash, Exodus, Fuse, Gnosis Pay, Kardpay, Karta, Kemy, Kolo, Kontigo, Kripi, Ledger, Lemon, MetaMask, Moonwell, Nebeus, OKX, Onboard, Osmosis Pay, Pintopay, RedotPay, Ripio, Rizon, Solayer, Spritz, Tangem Pay, THORWallet, Tria, Tuyo, Wise, Zebec, Zypto
+- **Asia** (30): Avici, Bing, Bit.Store, Bitget, COCA, Crypto.com Visa, Cypher, Decard, Ether.fi Cash, Kardpay, Karta, Kemy, Kolo, Kripi, Morph, Nebeus, Noones, Onboard, Oobit, Osmosis Pay, Rizon, Solayer, Spritz, Tangem Pay, THORWallet, TokenPocket, Tria, Wise, Zebec, Zypto
+- **Australia** (25): Avici, Bing, Bit.Store, Bitget, CoinJar, Crypto.com Visa, Ether.fi Cash, Kardpay, Kemy, Kolo, Kripi, Nebeus, Onboard, Oobit, Osmosis Pay, Rizon, Spritz, Stables, Tangem Pay, THORWallet, TokenPocket, Tria, Wise, Zebec, Zypto
+- **Middle East and North Africa** (19): Bit.Store, Cypher, Ether.fi Cash, Kardpay, Kemy, Kolo, Kripi, Nebeus, Onboard, Oobit, Osmosis Pay, RedotPay, Rizon, Solayer, Spritz, Tangem Pay, Tria, Zebec, Zypto
 
-### Europe (EEA)
+### By Custody Model
 
-The largest regional pool. MiCA-licensed issuers dominate; full KYC is the default.
+Custodial means an exchange or issuer holds your crypto and settles in fiat at checkout. Self-custody means the card pulls from a wallet you control, on-chain, at the moment of purchase. Different security model, different tax treatment, different failure modes.
 
-- [1inch Debit Card](https://sweepbase.net/cards/1inch-debit-card) - Virtual + Physical, self-custody, 1% in BTC/USDT/1INCH, 2% card spend fee. [[Official]](https://1inch.io/card/)
-- [Binance Card](https://sweepbase.net/cards/binance-card) - Virtual + Physical, custodial, Up to 2% BNB cashback, Mastercard Prepaid. [[Official]](https://www.binance.com/en/cards)
-- [BingX Card](https://sweepbase.net/cards/bingx-card) - Virtual + Physical, custodial, 2% FX, Mastercard Debit. [[Official]](https://bingx.com)
-- [Bit.Store Card](https://sweepbase.net/cards/bitstore-card) - Virtual + Physical, custodial, Cryptoback rewards on physical card purchases, Visa + Mastercard. [[Official]](https://bit.store/)
-- [Bit2Me Card](https://sweepbase.net/cards/bit2me-card) - Virtual + Physical, custodial, 0% within EU FX, Visa Debit. [[Official]](https://bit2me.com/card)
-- [Bitrefill Card](https://sweepbase.net/cards/bitrefill-card) - Virtual + Physical, custodial, Visa. [[Official]](https://www.bitrefill.com/card/)
-- [Bitsa Card](https://sweepbase.net/cards/bitsa-card) - Virtual + Physical, custodial, 2% FX, Visa Prepaid. [[Official]](https://bitsacard.com)
-- [Bleap Card](https://sweepbase.net/cards/bleap-card) - Virtual + Physical, self-custody, 1% base cashback on all purchases in USDC, Mastercard. [[Official]](https://www.bleap.finance/en-us/card/crypto-card)
-- [Brighty Card](https://sweepbase.net/cards/brighty-card) - Virtual + Physical, custodial, Up to 1.75%, Visa. [[Official]](https://brighty.app/)
-- [CEX.IO Card](https://sweepbase.net/cards/cexio-card) - Virtual + Physical, custodial, Up to 2% cashback, Visa Debit. [[Official]](https://cex.io/cards)
-- [COCA Card](https://sweepbase.net/cards/coca-card) - Virtual + Physical, Tiered cashback: 1% base, 0% FX fees, Mastercard (issued via Wirex). [[Official]](https://www.coca.xyz/)
-- [Crypto.com Visa Card](https://sweepbase.net/cards/cryptocom-visa-card) - Virtual + Physical, custodial, Up to 5% CRO rewards via staking or subscription, Visa (Standard to Obsidian tiers). [[Official]](https://crypto.com/cards)
-- [Cryptopay Card](https://sweepbase.net/cards/cryptopay-card) - Virtual + Physical, custodial, 3% FX, Visa Prepaid. [[Official]](https://cryptopay.me)
-- [Cypher Card](https://sweepbase.net/cards/cypher-card) - Virtual + Physical, self-custody, Up to 35% in CYPR tokens, Standard 1.75% FX. [[Official]](https://cypherhq.io/)
-- [Ether.fi Cash Card](https://sweepbase.net/cards/etherfi-cash-card) - Virtual + Physical, self-custody, Up to 3% cashback, Visa Signature. [[Official]](https://app.ether.fi/cash)
-- [Exodus Card](https://sweepbase.net/cards/exodus-card) - Virtual only, self-custody, Mastercard. [[Official]](https://www.exodus.com/)
-- [Gate Card](https://sweepbase.net/cards/gate-card) - Virtual + Physical, custodial, Up to 5% cashback via T0-T4 tiered system, 0.2% FX within EEA. [[Official]](https://www.gate.io/card)
-- [Gnosis Pay Card](https://sweepbase.net/cards/gnosis-pay-card) - Virtual + Physical, self-custody, Up to 5% in GNO tokens, Visa Debit. [[Official]](https://gnosispay.com/)
-- [Hi.com Card](https://sweepbase.net/cards/hicom-card) - Virtual + Physical, custodial, Tiered cashback: Basic 1%, 0.2% FX. [[Official]](https://hi.com)
-- [HODL Card](https://sweepbase.net/cards/hodl-card) - Physical, custodial, Mastercard Debit. [[Official]](https://clubswan.com)
-- [Holyheld Card](https://sweepbase.net/cards/holyheld-card) - Virtual + Physical, 0.5-1% USDC cashback, 0% within EEA FX, Mastercard Prepaid. [[Official]](https://holyheld.com/)
-- [Kardpay Card](https://sweepbase.net/cards/kardpay-card) - Virtual only, custodial, KDY staking provides fee discounts, Standard network rates FX. [[Official]](https://www.kardpay.app/)
-- [Kemy Card](https://sweepbase.net/cards/kemy-card) - Virtual + Physical, custodial, 8% crypto top-up fee, Visa + Mastercard Prepaid. [[Official]](https://kemycard.com/en/home)
-- [Kolo Card](https://sweepbase.net/cards/kolo-card) - Virtual + Physical, 2% BTC cashback standard, 0% FX fees, Visa + Mastercard Prepaid.
-- [Kontigo Card](https://sweepbase.net/cards/kontigo-card) - Virtual + Physical, self-custody, Bitcoin cashback on card spending, Mastercard Prepaid. [[Official]](https://www.kontigo.com/)
-- [Krak Card](https://sweepbase.net/cards/krak-card) - Virtual + Physical, custodial, Up to 1% in fiat or BTC, 0% FX. [[Official]](https://www.kraken.com/krak/card)
-- [Kripi Card](https://sweepbase.net/cards/kripi-card) - Virtual only, custodial, Fee discounts up to 50% when staking KRIPI tokens, Visa + Mastercard Prepaid. [[Official]](https://kripicard.com/)
-- [KuCard](https://sweepbase.net/cards/kucard) - Virtual + Physical, custodial, 1-3% base, 2% international FX fee. [[Official]](https://www.kucoin.com/kucard)
-- [Mercuryo Spend Card](https://sweepbase.net/cards/mercuryo-spend-card) - Virtual only, self-custody, 0.95% off-ramp fee, Mastercard Debit. [[Official]](https://mercuryo.io/spend)
-- [MetaMask Card](https://sweepbase.net/cards/metamask-card) - Virtual + Physical, self-custody, Virtual: 1% mUSD cashback, Mastercard Debit. [[Official]](https://portfolio.metamask.io/card)
-- [Mobilum Card](https://sweepbase.net/cards/mobilum-card) - Virtual + Physical, custodial, Mastercard Prepaid. [[Official]](https://www.mobilum.com/en/cards)
-- [Nebeus Card](https://sweepbase.net/cards/nebeus-card) - Virtual + Physical, custodial, Likely discontinued, 0% foreign exchange fee. [[Official]](https://nebeus.com/)
-- [OKX Card](https://sweepbase.net/cards/okx-card) - Virtual only, custodial, Launch promotion, 0.1% conversion spread FX. [[Official]](https://www.okx.com/)
-- [Onboard Card](https://sweepbase.net/cards/onboard-card) - Virtual only, custodial, 1 USDC per transaction $10-$1000, Visa Prepaid. [[Official]](https://www.onboard.xyz/)
-- [Oobit Card](https://sweepbase.net/cards/oobit-card) - Virtual + Physical, self-custody, 2% base cashback in stablecoins, Visa Debit. [[Official]](https://oobit.com/)
-- [Osmosis Pay Card](https://sweepbase.net/cards/osmosis-pay-card) - Virtual + Physical, self-custody, Standard 2% FX, Visa Prepaid. [[Official]](https://pay.osmosis.zone/)
-- [Pintopay Card](https://sweepbase.net/cards/pintopay-card) - Virtual + Physical, custodial, Visa + Mastercard Prepaid.
-- [Plutus Card](https://sweepbase.net/cards/plutus-card) - Virtual + Physical, custodial, Visa Debit. [[Official]](https://plutus.it/)
-- [Ready Card](https://sweepbase.net/cards/ready-card) - Virtual + Physical, self-custody, 0% markup FX, Mastercard Debit. [[Official]](https://www.ready.co/card)
-- [Rebind Card](https://sweepbase.net/cards/rebind-card) - Physical, self-custody, Up to 5% in GNO tokens, Visa Debit. [[Official]](https://rebind.co/)
-- [RedotPay Card](https://sweepbase.net/cards/redotpay-card) - Virtual + Physical, custodial, Varies by promotional programs, Visa Prepaid. [[Official]](https://www.redotpay.com/)
-- [Solflare Card](https://sweepbase.net/cards/solflare-card) - Virtual + Physical, self-custody, Mastercard Debit. [[Official]](https://solflare.com/)
-- [SpectroCoin Card](https://sweepbase.net/cards/spectrocoin-card) - Virtual + Physical, custodial, 0% FX, Visa Debit. [[Official]](https://spectrocoin.com)
-- [Spritz Card](https://sweepbase.net/cards/spritz-card) - Virtual + Physical, Visa Signature Credit. [[Official]](https://www.spritz.finance/)
-- [SwissBorg Card](https://sweepbase.net/cards/swissborg-card) - Virtual + Physical, custodial, Up to 2% cashback, 0% within EU FX. [[Official]](https://swissborg.com/card)
-- [Swissquote Card](https://sweepbase.net/cards/swissquote-card) - Physical, custodial, Up to 1% cashback, 1.5% FX. [[Official]](https://www.swissquote.com/card)
-- [Tangem Pay Card](https://sweepbase.net/cards/tangem-pay-card) - Virtual only, self-custody, 0% Tangem markup FX, Visa Prepaid. [[Official]](https://tangem.com/en/tangem-pay/)
-- [THORWallet Card](https://sweepbase.net/cards/thorwallet-card) - Virtual only, self-custody, TITN staking-based cashback, Mastercard Debit. [[Official]](https://www.thorwallet.org/)
-- [Tria Card](https://sweepbase.net/cards/tria-card) - Virtual + Physical, self-custody, 1% intl fee, Visa Signature.
-- [Trustee Card](https://sweepbase.net/cards/trustee-card) - Virtual + Physical, custodial, 0.5% crypto conversion FX, Mastercard Debit.
-- [Tuyo Card](https://sweepbase.net/cards/tuyo-card) - Virtual only, self-custody, TUYO rewards tokens, Standard Visa rates FX.
-- [Utorg Card](https://sweepbase.net/cards/utorg-card) - Virtual only, self-custody, Visa + Mastercard Prepaid. [[Official]](https://utorg.pro/)
-- [WhiteBIT Card](https://sweepbase.net/cards/whitebit-card) - Virtual + Physical, custodial, Standard Visa FX rates, Visa Debit. [[Official]](https://whitebit.com/)
-- [Wise Card](https://sweepbase.net/cards/wise-card) - Virtual + Physical, custodial, 0.33-3.5% FX, Visa Debit. [[Official]](https://wise.com/card)
-- [xPortal Card](https://sweepbase.net/cards/xportal-card) - Virtual + Physical, self-custody, Up to 0.5% with EGLD staking, Mastercard Prepaid. [[Official]](https://xportal.com/)
-- [YouHodler Card](https://sweepbase.net/cards/youhodler-card) - Virtual + Physical, custodial, Up to 5%. [[Official]](https://www.youhodler.com/crypto-card)
-- [Zebec Card](https://sweepbase.net/cards/zebec-card) - Virtual only, Up to 5-7% ZBCN cashback + weekly crypto airdrops, Mastercard Prepaid. [[Official]](https://zebec.io/)
-- [Zypto Card](https://sweepbase.net/cards/zypto-card) - Virtual + Physical, self-custody, ZYP reward points on card spending, 1.75% FX fee. [[Official]](https://zypto.com/)
+- **Self-Custody** (46): 1inch Debit, AmpBlack, Avalanche, Avici, Bleap, Cypher, Deblock, Decaf, Ether.fi Cash, Exa, Exodus, Fiat24, Fuse, Gnosis Pay, imToken, Jupiter, Kontigo, Ledger, Mercuryo Spend, MetaMask, Moonwell, Morph, Offramp, Oobit, Orbitx, Osmosis Pay, Payy, Phantom Cash, Plasma One, Pyra, Ready, Rebind, Rizon, Solayer, Solflare, Solid, Tangem Pay, TapX, THORWallet, TokenPocket, Tria, Tuyo, Utorg, Xplace, xPortal, Zypto
+- **Custodial** (81): Airtm, Based, Binance, Bing, BingX, BipTap, Bit.Store, Bit2Me, Bitget, Bitpanda, BitPay, Bitrefill, Bitsa, Bitstack, Blockchain.com, Brighty, Bybit, Cardano, CEX.IO, Coinbase, CoinJar, CoinW, CoinZoom, Crypto.com Visa, Cryptomus, Cryptopay, Decard, Emoney, Eversend, Extsy, Fizen, Fold, Gate, Gemini Credit, Hi.com, HODL, Kardpay, Karta, KAST, Kazepay, Kemy, Keytom, Krak, Kraken, Kripi, KuCard, Lemon, MaxSwap, Mobilum, Nebeus, Nexo, Noones, OffGrid, OKX, Onboard, Pintopay, Plutus, RedotPay, Revolut, Ripio, SafePal, Shakepay, SolCard, SpectroCoin, Stables, SwissBorg, Swissquote, Tap, Trade Republic, Trustee, UltimoPay, Uphold, Venmo Credit, Volet, Wayex, Wealthsimple, WhiteBIT, Wirex, Wise, Xapo Bank, YouHodler
 
-### Canada
+### By Use Case
 
-Thin domestic supply. Canadians typically use self-custody wrappers or global products.
+Rough groupings based on how these cards are actually used in practice. A card can belong to several.
 
-- [Bing Card](https://sweepbase.net/cards/bing-card) - Virtual + Physical, custodial, Visa + Mastercard (both virtual); Visa (physical). [[Official]](https://www.bingcard.com/)
-- [Bit.Store Card](https://sweepbase.net/cards/bitstore-card) - Virtual + Physical, custodial, Cryptoback rewards on physical card purchases, Visa + Mastercard. [[Official]](https://bit.store/)
-- [Crypto.com Visa Card](https://sweepbase.net/cards/cryptocom-visa-card) - Virtual + Physical, custodial, Up to 5% CRO rewards via staking or subscription, Visa (Standard to Obsidian tiers). [[Official]](https://crypto.com/cards)
-- [Cypher Card](https://sweepbase.net/cards/cypher-card) - Virtual + Physical, self-custody, Up to 35% in CYPR tokens, Standard 1.75% FX. [[Official]](https://cypherhq.io/)
-- [Ether.fi Cash Card](https://sweepbase.net/cards/etherfi-cash-card) - Virtual + Physical, self-custody, Up to 3% cashback, Visa Signature. [[Official]](https://app.ether.fi/cash)
-- [Kardpay Card](https://sweepbase.net/cards/kardpay-card) - Virtual only, custodial, KDY staking provides fee discounts, Standard network rates FX. [[Official]](https://www.kardpay.app/)
-- [Kemy Card](https://sweepbase.net/cards/kemy-card) - Virtual + Physical, custodial, 8% crypto top-up fee, Visa + Mastercard Prepaid. [[Official]](https://kemycard.com/en/home)
-- [Kolo Card](https://sweepbase.net/cards/kolo-card) - Virtual + Physical, 2% BTC cashback standard, 0% FX fees, Visa + Mastercard Prepaid.
-- [Kripi Card](https://sweepbase.net/cards/kripi-card) - Virtual only, custodial, Fee discounts up to 50% when staking KRIPI tokens, Visa + Mastercard Prepaid. [[Official]](https://kripicard.com/)
-- [Ledger Card](https://sweepbase.net/cards/ledger-card) - Virtual + Physical, self-custody, 1% cashback in BTC or USDC, Standard Visa FX rates. [[Official]](https://www.ledger.com/)
-- [MetaMask Card](https://sweepbase.net/cards/metamask-card) - Virtual + Physical, self-custody, Virtual: 1% mUSD cashback, Mastercard Debit. [[Official]](https://portfolio.metamask.io/card)
-- [Nebeus Card](https://sweepbase.net/cards/nebeus-card) - Virtual + Physical, custodial, Likely discontinued, 0% foreign exchange fee. [[Official]](https://nebeus.com/)
-- [Onboard Card](https://sweepbase.net/cards/onboard-card) - Virtual only, custodial, 1 USDC per transaction $10-$1000, Visa Prepaid. [[Official]](https://www.onboard.xyz/)
-- [Oobit Card](https://sweepbase.net/cards/oobit-card) - Virtual + Physical, self-custody, 2% base cashback in stablecoins, Visa Debit. [[Official]](https://oobit.com/)
-- [Osmosis Pay Card](https://sweepbase.net/cards/osmosis-pay-card) - Virtual + Physical, self-custody, Standard 2% FX, Visa Prepaid. [[Official]](https://pay.osmosis.zone/)
-- [Pintopay Card](https://sweepbase.net/cards/pintopay-card) - Virtual + Physical, custodial, Visa + Mastercard Prepaid.
-- [Rizon Card](https://sweepbase.net/cards/rizon-card) - Virtual + Physical, self-custody, 2.5% + $0.10 on non-USD FX, Visa Debit. [[Official]](https://www.getrizon.com/card)
-- [Shakepay Card](https://sweepbase.net/cards/shakepay-card) - Virtual + Physical, custodial, Up to 4% Bitcoin cashback, 0% FX. [[Official]](https://shakepay.com/card)
-- [Spritz Card](https://sweepbase.net/cards/spritz-card) - Virtual + Physical, Visa Signature Credit. [[Official]](https://www.spritz.finance/)
-- [THORWallet Card](https://sweepbase.net/cards/thorwallet-card) - Virtual only, self-custody, TITN staking-based cashback, Mastercard Debit. [[Official]](https://www.thorwallet.org/)
-- [TokenPocket Card](https://sweepbase.net/cards/tokenpocket-card) - Virtual only, self-custody, Visa + Mastercard Debit. [[Official]](https://www.tokenpocket.pro/)
-- [Tria Card](https://sweepbase.net/cards/tria-card) - Virtual + Physical, self-custody, 1% intl fee, Visa Signature.
-- [Tuyo Card](https://sweepbase.net/cards/tuyo-card) - Virtual only, self-custody, TUYO rewards tokens, Standard Visa rates FX.
-- [Wealthsimple Card](https://sweepbase.net/cards/wealthsimple-card) - Virtual + Physical, custodial, 1% cashback, 0% FX. [[Official]](https://wealthsimple.com)
-- [Wise Card](https://sweepbase.net/cards/wise-card) - Virtual + Physical, custodial, 0.33-3.5% FX, Visa Debit. [[Official]](https://wise.com/card)
-- [Zebec Card](https://sweepbase.net/cards/zebec-card) - Virtual only, Up to 5-7% ZBCN cashback + weekly crypto airdrops, Mastercard Prepaid. [[Official]](https://zebec.io/)
-- [Zypto Card](https://sweepbase.net/cards/zypto-card) - Virtual + Physical, self-custody, ZYP reward points on card spending, 1.75% FX fee. [[Official]](https://zypto.com/)
-
-### Latin America
-
-Crypto cards are a dollarization tool here more than a payments innovation. USD-denominated balances beat local FX volatility.
-
-- [Airtm Card](https://sweepbase.net/cards/airtm-card) - Virtual only, custodial, Visa Prepaid. [[Official]](https://www.airtm.com)
-- [Avici Card](https://sweepbase.net/cards/avici-card) - Virtual + Physical, self-custody, 0% Avici fee, Visa Signature. [[Official]](https://avici.money/)
-- [Binance Card](https://sweepbase.net/cards/binance-card) - Virtual + Physical, custodial, Up to 2% BNB cashback, Mastercard Prepaid. [[Official]](https://www.binance.com/en/cards)
-- [Bing Card](https://sweepbase.net/cards/bing-card) - Virtual + Physical, custodial, Visa + Mastercard (both virtual); Visa (physical). [[Official]](https://www.bingcard.com/)
-- [Bit.Store Card](https://sweepbase.net/cards/bitstore-card) - Virtual + Physical, custodial, Cryptoback rewards on physical card purchases, Visa + Mastercard. [[Official]](https://bit.store/)
-- [Bit2Me Card](https://sweepbase.net/cards/bit2me-card) - Virtual + Physical, custodial, 0% within EU FX, Visa Debit. [[Official]](https://bit2me.com/card)
-- [Bitget Card](https://sweepbase.net/cards/bitget-card) - Virtual + Physical, custodial, Visa.
-- [COCA Card](https://sweepbase.net/cards/coca-card) - Virtual + Physical, Tiered cashback: 1% base, 0% FX fees, Mastercard (issued via Wirex). [[Official]](https://www.coca.xyz/)
-- [Crypto.com Visa Card](https://sweepbase.net/cards/cryptocom-visa-card) - Virtual + Physical, custodial, Up to 5% CRO rewards via staking or subscription, Visa (Standard to Obsidian tiers). [[Official]](https://crypto.com/cards)
-- [Cypher Card](https://sweepbase.net/cards/cypher-card) - Virtual + Physical, self-custody, Up to 35% in CYPR tokens, Standard 1.75% FX. [[Official]](https://cypherhq.io/)
-- [Ether.fi Cash Card](https://sweepbase.net/cards/etherfi-cash-card) - Virtual + Physical, self-custody, Up to 3% cashback, Visa Signature. [[Official]](https://app.ether.fi/cash)
-- [Exodus Card](https://sweepbase.net/cards/exodus-card) - Virtual only, self-custody, Mastercard. [[Official]](https://www.exodus.com/)
-- [Fuse Card](https://sweepbase.net/cards/fuse-card) - Virtual only, self-custody, Standard Visa rates, ~1% FX, Visa Prepaid. [[Official]](https://fusewallet.com/)
-- [Gnosis Pay Card](https://sweepbase.net/cards/gnosis-pay-card) - Virtual + Physical, self-custody, Up to 5% in GNO tokens, Visa Debit. [[Official]](https://gnosispay.com/)
-- [Kardpay Card](https://sweepbase.net/cards/kardpay-card) - Virtual only, custodial, KDY staking provides fee discounts, Standard network rates FX. [[Official]](https://www.kardpay.app/)
-- [Karta Card](https://sweepbase.net/cards/karta-card) - Virtual only, custodial, Visa Signature. [[Official]](https://karta.io/)
-- [Kemy Card](https://sweepbase.net/cards/kemy-card) - Virtual + Physical, custodial, 8% crypto top-up fee, Visa + Mastercard Prepaid. [[Official]](https://kemycard.com/en/home)
-- [Kolo Card](https://sweepbase.net/cards/kolo-card) - Virtual + Physical, 2% BTC cashback standard, 0% FX fees, Visa + Mastercard Prepaid.
-- [Kontigo Card](https://sweepbase.net/cards/kontigo-card) - Virtual + Physical, self-custody, Bitcoin cashback on card spending, Mastercard Prepaid. [[Official]](https://www.kontigo.com/)
-- [Kripi Card](https://sweepbase.net/cards/kripi-card) - Virtual only, custodial, Fee discounts up to 50% when staking KRIPI tokens, Visa + Mastercard Prepaid. [[Official]](https://kripicard.com/)
-- [Ledger Card](https://sweepbase.net/cards/ledger-card) - Virtual + Physical, self-custody, 1% cashback in BTC or USDC, Standard Visa FX rates. [[Official]](https://www.ledger.com/)
-- [Lemon Card](https://sweepbase.net/cards/lemon-card) - Virtual + Physical, custodial, Up to 5% cashback in BTC/ETH, Visa Debit. [[Official]](https://lemon.me)
-- [MetaMask Card](https://sweepbase.net/cards/metamask-card) - Virtual + Physical, self-custody, Virtual: 1% mUSD cashback, Mastercard Debit. [[Official]](https://portfolio.metamask.io/card)
-- [Moonwell Card](https://sweepbase.net/cards/moonwell-card) - Virtual + Physical, self-custody, Visa Debit. [[Official]](https://card.moonwell.fi/)
-- [Nebeus Card](https://sweepbase.net/cards/nebeus-card) - Virtual + Physical, custodial, Likely discontinued, 0% foreign exchange fee. [[Official]](https://nebeus.com/)
-- [OKX Card](https://sweepbase.net/cards/okx-card) - Virtual only, custodial, Launch promotion, 0.1% conversion spread FX. [[Official]](https://www.okx.com/)
-- [Onboard Card](https://sweepbase.net/cards/onboard-card) - Virtual only, custodial, 1 USDC per transaction $10-$1000, Visa Prepaid. [[Official]](https://www.onboard.xyz/)
-- [Osmosis Pay Card](https://sweepbase.net/cards/osmosis-pay-card) - Virtual + Physical, self-custody, Standard 2% FX, Visa Prepaid. [[Official]](https://pay.osmosis.zone/)
-- [Pintopay Card](https://sweepbase.net/cards/pintopay-card) - Virtual + Physical, custodial, Visa + Mastercard Prepaid.
-- [RedotPay Card](https://sweepbase.net/cards/redotpay-card) - Virtual + Physical, custodial, Varies by promotional programs, Visa Prepaid. [[Official]](https://www.redotpay.com/)
-- [Ripio Card](https://sweepbase.net/cards/ripio-card) - Virtual + Physical, custodial, Visa Debit. [[Official]](https://ripio.com)
-- [Rizon Card](https://sweepbase.net/cards/rizon-card) - Virtual + Physical, self-custody, 2.5% + $0.10 on non-USD FX, Visa Debit. [[Official]](https://www.getrizon.com/card)
-- [Solayer Card](https://sweepbase.net/cards/solayer-card) - Virtual + Physical, self-custody, 1% ongoing cashback + Emerald Points, $0.10 + 1.5% FX fee. [[Official]](https://solayer.org/product/card)
-- [Spritz Card](https://sweepbase.net/cards/spritz-card) - Virtual + Physical, Visa Signature Credit. [[Official]](https://www.spritz.finance/)
-- [Tangem Pay Card](https://sweepbase.net/cards/tangem-pay-card) - Virtual only, self-custody, 0% Tangem markup FX, Visa Prepaid. [[Official]](https://tangem.com/en/tangem-pay/)
-- [THORWallet Card](https://sweepbase.net/cards/thorwallet-card) - Virtual only, self-custody, TITN staking-based cashback, Mastercard Debit. [[Official]](https://www.thorwallet.org/)
-- [Tria Card](https://sweepbase.net/cards/tria-card) - Virtual + Physical, self-custody, 1% intl fee, Visa Signature.
-- [Tuyo Card](https://sweepbase.net/cards/tuyo-card) - Virtual only, self-custody, TUYO rewards tokens, Standard Visa rates FX.
-- [Wise Card](https://sweepbase.net/cards/wise-card) - Virtual + Physical, custodial, 0.33-3.5% FX, Visa Debit. [[Official]](https://wise.com/card)
-- [Zebec Card](https://sweepbase.net/cards/zebec-card) - Virtual only, Up to 5-7% ZBCN cashback + weekly crypto airdrops, Mastercard Prepaid. [[Official]](https://zebec.io/)
-- [Zypto Card](https://sweepbase.net/cards/zypto-card) - Virtual + Physical, self-custody, ZYP reward points on card spending, 1.75% FX fee. [[Official]](https://zypto.com/)
-
-### Asia
-
-- [Avici Card](https://sweepbase.net/cards/avici-card) - Virtual + Physical, self-custody, 0% Avici fee, Visa Signature. [[Official]](https://avici.money/)
-- [Bing Card](https://sweepbase.net/cards/bing-card) - Virtual + Physical, custodial, Visa + Mastercard (both virtual); Visa (physical). [[Official]](https://www.bingcard.com/)
-- [Bit.Store Card](https://sweepbase.net/cards/bitstore-card) - Virtual + Physical, custodial, Cryptoback rewards on physical card purchases, Visa + Mastercard. [[Official]](https://bit.store/)
-- [Bitget Card](https://sweepbase.net/cards/bitget-card) - Virtual + Physical, custodial, Visa.
-- [COCA Card](https://sweepbase.net/cards/coca-card) - Virtual + Physical, Tiered cashback: 1% base, 0% FX fees, Mastercard (issued via Wirex). [[Official]](https://www.coca.xyz/)
-- [Crypto.com Visa Card](https://sweepbase.net/cards/cryptocom-visa-card) - Virtual + Physical, custodial, Up to 5% CRO rewards via staking or subscription, Visa (Standard to Obsidian tiers). [[Official]](https://crypto.com/cards)
-- [Cypher Card](https://sweepbase.net/cards/cypher-card) - Virtual + Physical, self-custody, Up to 35% in CYPR tokens, Standard 1.75% FX. [[Official]](https://cypherhq.io/)
-- [Decard Card](https://sweepbase.net/cards/decard-card) - Virtual + Physical, custodial, Available, Visa (Premium metal: Luminaries). [[Official]](https://thedecard.com/)
-- [Ether.fi Cash Card](https://sweepbase.net/cards/etherfi-cash-card) - Virtual + Physical, self-custody, Up to 3% cashback, Visa Signature. [[Official]](https://app.ether.fi/cash)
-- [Kardpay Card](https://sweepbase.net/cards/kardpay-card) - Virtual only, custodial, KDY staking provides fee discounts, Standard network rates FX. [[Official]](https://www.kardpay.app/)
-- [Karta Card](https://sweepbase.net/cards/karta-card) - Virtual only, custodial, Visa Signature. [[Official]](https://karta.io/)
-- [Kemy Card](https://sweepbase.net/cards/kemy-card) - Virtual + Physical, custodial, 8% crypto top-up fee, Visa + Mastercard Prepaid. [[Official]](https://kemycard.com/en/home)
-- [Kolo Card](https://sweepbase.net/cards/kolo-card) - Virtual + Physical, 2% BTC cashback standard, 0% FX fees, Visa + Mastercard Prepaid.
-- [Kripi Card](https://sweepbase.net/cards/kripi-card) - Virtual only, custodial, Fee discounts up to 50% when staking KRIPI tokens, Visa + Mastercard Prepaid. [[Official]](https://kripicard.com/)
-- [Morph Card](https://sweepbase.net/cards/morph-card) - Physical, self-custody, 0.3% handling fee, Mastercard Debit. [[Official]](https://morph.network)
-- [Nebeus Card](https://sweepbase.net/cards/nebeus-card) - Virtual + Physical, custodial, Likely discontinued, 0% foreign exchange fee. [[Official]](https://nebeus.com/)
-- [Noones Card](https://sweepbase.net/cards/noones-card) - Virtual only, custodial, Visa Prepaid. [[Official]](https://noones.com)
-- [Onboard Card](https://sweepbase.net/cards/onboard-card) - Virtual only, custodial, 1 USDC per transaction $10-$1000, Visa Prepaid. [[Official]](https://www.onboard.xyz/)
-- [Oobit Card](https://sweepbase.net/cards/oobit-card) - Virtual + Physical, self-custody, 2% base cashback in stablecoins, Visa Debit. [[Official]](https://oobit.com/)
-- [Osmosis Pay Card](https://sweepbase.net/cards/osmosis-pay-card) - Virtual + Physical, self-custody, Standard 2% FX, Visa Prepaid. [[Official]](https://pay.osmosis.zone/)
-- [Rizon Card](https://sweepbase.net/cards/rizon-card) - Virtual + Physical, self-custody, 2.5% + $0.10 on non-USD FX, Visa Debit. [[Official]](https://www.getrizon.com/card)
-- [Solayer Card](https://sweepbase.net/cards/solayer-card) - Virtual + Physical, self-custody, 1% ongoing cashback + Emerald Points, $0.10 + 1.5% FX fee. [[Official]](https://solayer.org/product/card)
-- [Spritz Card](https://sweepbase.net/cards/spritz-card) - Virtual + Physical, Visa Signature Credit. [[Official]](https://www.spritz.finance/)
-- [Tangem Pay Card](https://sweepbase.net/cards/tangem-pay-card) - Virtual only, self-custody, 0% Tangem markup FX, Visa Prepaid. [[Official]](https://tangem.com/en/tangem-pay/)
-- [THORWallet Card](https://sweepbase.net/cards/thorwallet-card) - Virtual only, self-custody, TITN staking-based cashback, Mastercard Debit. [[Official]](https://www.thorwallet.org/)
-- [TokenPocket Card](https://sweepbase.net/cards/tokenpocket-card) - Virtual only, self-custody, Visa + Mastercard Debit. [[Official]](https://www.tokenpocket.pro/)
-- [Tria Card](https://sweepbase.net/cards/tria-card) - Virtual + Physical, self-custody, 1% intl fee, Visa Signature.
-- [Wise Card](https://sweepbase.net/cards/wise-card) - Virtual + Physical, custodial, 0.33-3.5% FX, Visa Debit. [[Official]](https://wise.com/card)
-- [Zebec Card](https://sweepbase.net/cards/zebec-card) - Virtual only, Up to 5-7% ZBCN cashback + weekly crypto airdrops, Mastercard Prepaid. [[Official]](https://zebec.io/)
-- [Zypto Card](https://sweepbase.net/cards/zypto-card) - Virtual + Physical, self-custody, ZYP reward points on card spending, 1.75% FX fee. [[Official]](https://zypto.com/)
-
-### Australia
-
-- [Avici Card](https://sweepbase.net/cards/avici-card) - Virtual + Physical, self-custody, 0% Avici fee, Visa Signature. [[Official]](https://avici.money/)
-- [Bing Card](https://sweepbase.net/cards/bing-card) - Virtual + Physical, custodial, Visa + Mastercard (both virtual); Visa (physical). [[Official]](https://www.bingcard.com/)
-- [Bit.Store Card](https://sweepbase.net/cards/bitstore-card) - Virtual + Physical, custodial, Cryptoback rewards on physical card purchases, Visa + Mastercard. [[Official]](https://bit.store/)
-- [Bitget Card](https://sweepbase.net/cards/bitget-card) - Virtual + Physical, custodial, Visa.
-- [CoinJar Card](https://sweepbase.net/cards/coinjar-card) - Virtual + Physical, custodial, Mastercard.
-- [Crypto.com Visa Card](https://sweepbase.net/cards/cryptocom-visa-card) - Virtual + Physical, custodial, Up to 5% CRO rewards via staking or subscription, Visa (Standard to Obsidian tiers). [[Official]](https://crypto.com/cards)
-- [Ether.fi Cash Card](https://sweepbase.net/cards/etherfi-cash-card) - Virtual + Physical, self-custody, Up to 3% cashback, Visa Signature. [[Official]](https://app.ether.fi/cash)
-- [Kardpay Card](https://sweepbase.net/cards/kardpay-card) - Virtual only, custodial, KDY staking provides fee discounts, Standard network rates FX. [[Official]](https://www.kardpay.app/)
-- [Kemy Card](https://sweepbase.net/cards/kemy-card) - Virtual + Physical, custodial, 8% crypto top-up fee, Visa + Mastercard Prepaid. [[Official]](https://kemycard.com/en/home)
-- [Kolo Card](https://sweepbase.net/cards/kolo-card) - Virtual + Physical, 2% BTC cashback standard, 0% FX fees, Visa + Mastercard Prepaid.
-- [Kripi Card](https://sweepbase.net/cards/kripi-card) - Virtual only, custodial, Fee discounts up to 50% when staking KRIPI tokens, Visa + Mastercard Prepaid. [[Official]](https://kripicard.com/)
-- [Nebeus Card](https://sweepbase.net/cards/nebeus-card) - Virtual + Physical, custodial, Likely discontinued, 0% foreign exchange fee. [[Official]](https://nebeus.com/)
-- [Onboard Card](https://sweepbase.net/cards/onboard-card) - Virtual only, custodial, 1 USDC per transaction $10-$1000, Visa Prepaid. [[Official]](https://www.onboard.xyz/)
-- [Oobit Card](https://sweepbase.net/cards/oobit-card) - Virtual + Physical, self-custody, 2% base cashback in stablecoins, Visa Debit. [[Official]](https://oobit.com/)
-- [Osmosis Pay Card](https://sweepbase.net/cards/osmosis-pay-card) - Virtual + Physical, self-custody, Standard 2% FX, Visa Prepaid. [[Official]](https://pay.osmosis.zone/)
-- [Rizon Card](https://sweepbase.net/cards/rizon-card) - Virtual + Physical, self-custody, 2.5% + $0.10 on non-USD FX, Visa Debit. [[Official]](https://www.getrizon.com/card)
-- [Spritz Card](https://sweepbase.net/cards/spritz-card) - Virtual + Physical, Visa Signature Credit. [[Official]](https://www.spritz.finance/)
-- [Stables Card](https://sweepbase.net/cards/stables-card) - Virtual + Physical, custodial, 2% FX, Visa Prepaid. [[Official]](https://stables.money)
-- [Tangem Pay Card](https://sweepbase.net/cards/tangem-pay-card) - Virtual only, self-custody, 0% Tangem markup FX, Visa Prepaid. [[Official]](https://tangem.com/en/tangem-pay/)
-- [THORWallet Card](https://sweepbase.net/cards/thorwallet-card) - Virtual only, self-custody, TITN staking-based cashback, Mastercard Debit. [[Official]](https://www.thorwallet.org/)
-- [TokenPocket Card](https://sweepbase.net/cards/tokenpocket-card) - Virtual only, self-custody, Visa + Mastercard Debit. [[Official]](https://www.tokenpocket.pro/)
-- [Tria Card](https://sweepbase.net/cards/tria-card) - Virtual + Physical, self-custody, 1% intl fee, Visa Signature.
-- [Wise Card](https://sweepbase.net/cards/wise-card) - Virtual + Physical, custodial, 0.33-3.5% FX, Visa Debit. [[Official]](https://wise.com/card)
-- [Zebec Card](https://sweepbase.net/cards/zebec-card) - Virtual only, Up to 5-7% ZBCN cashback + weekly crypto airdrops, Mastercard Prepaid. [[Official]](https://zebec.io/)
-- [Zypto Card](https://sweepbase.net/cards/zypto-card) - Virtual + Physical, self-custody, ZYP reward points on card spending, 1.75% FX fee. [[Official]](https://zypto.com/)
-
-### Middle East and North Africa
-
-- [Bit.Store Card](https://sweepbase.net/cards/bitstore-card) - Virtual + Physical, custodial, Cryptoback rewards on physical card purchases, Visa + Mastercard. [[Official]](https://bit.store/)
-- [Cypher Card](https://sweepbase.net/cards/cypher-card) - Virtual + Physical, self-custody, Up to 35% in CYPR tokens, Standard 1.75% FX. [[Official]](https://cypherhq.io/)
-- [Ether.fi Cash Card](https://sweepbase.net/cards/etherfi-cash-card) - Virtual + Physical, self-custody, Up to 3% cashback, Visa Signature. [[Official]](https://app.ether.fi/cash)
-- [Kardpay Card](https://sweepbase.net/cards/kardpay-card) - Virtual only, custodial, KDY staking provides fee discounts, Standard network rates FX. [[Official]](https://www.kardpay.app/)
-- [Kemy Card](https://sweepbase.net/cards/kemy-card) - Virtual + Physical, custodial, 8% crypto top-up fee, Visa + Mastercard Prepaid. [[Official]](https://kemycard.com/en/home)
-- [Kolo Card](https://sweepbase.net/cards/kolo-card) - Virtual + Physical, 2% BTC cashback standard, 0% FX fees, Visa + Mastercard Prepaid.
-- [Kripi Card](https://sweepbase.net/cards/kripi-card) - Virtual only, custodial, Fee discounts up to 50% when staking KRIPI tokens, Visa + Mastercard Prepaid. [[Official]](https://kripicard.com/)
-- [Nebeus Card](https://sweepbase.net/cards/nebeus-card) - Virtual + Physical, custodial, Likely discontinued, 0% foreign exchange fee. [[Official]](https://nebeus.com/)
-- [Onboard Card](https://sweepbase.net/cards/onboard-card) - Virtual only, custodial, 1 USDC per transaction $10-$1000, Visa Prepaid. [[Official]](https://www.onboard.xyz/)
-- [Oobit Card](https://sweepbase.net/cards/oobit-card) - Virtual + Physical, self-custody, 2% base cashback in stablecoins, Visa Debit. [[Official]](https://oobit.com/)
-- [Osmosis Pay Card](https://sweepbase.net/cards/osmosis-pay-card) - Virtual + Physical, self-custody, Standard 2% FX, Visa Prepaid. [[Official]](https://pay.osmosis.zone/)
-- [RedotPay Card](https://sweepbase.net/cards/redotpay-card) - Virtual + Physical, custodial, Varies by promotional programs, Visa Prepaid. [[Official]](https://www.redotpay.com/)
-- [Rizon Card](https://sweepbase.net/cards/rizon-card) - Virtual + Physical, self-custody, 2.5% + $0.10 on non-USD FX, Visa Debit. [[Official]](https://www.getrizon.com/card)
-- [Solayer Card](https://sweepbase.net/cards/solayer-card) - Virtual + Physical, self-custody, 1% ongoing cashback + Emerald Points, $0.10 + 1.5% FX fee. [[Official]](https://solayer.org/product/card)
-- [Spritz Card](https://sweepbase.net/cards/spritz-card) - Virtual + Physical, Visa Signature Credit. [[Official]](https://www.spritz.finance/)
-- [Tangem Pay Card](https://sweepbase.net/cards/tangem-pay-card) - Virtual only, self-custody, 0% Tangem markup FX, Visa Prepaid. [[Official]](https://tangem.com/en/tangem-pay/)
-- [Tria Card](https://sweepbase.net/cards/tria-card) - Virtual + Physical, self-custody, 1% intl fee, Visa Signature.
-- [Zebec Card](https://sweepbase.net/cards/zebec-card) - Virtual only, Up to 5-7% ZBCN cashback + weekly crypto airdrops, Mastercard Prepaid. [[Official]](https://zebec.io/)
-- [Zypto Card](https://sweepbase.net/cards/zypto-card) - Virtual + Physical, self-custody, ZYP reward points on card spending, 1.75% FX fee. [[Official]](https://zypto.com/)
-
-## By Custody Model
-
-Custodial cards hold your crypto on an exchange. Self-custody cards never take your keys — they pull from your wallet on-chain when you swipe. Different security model, different tax treatment, different failure modes.
-
-### Self-Custody Cards
-
-Your keys stay with you until the moment of purchase. The card triggers an on-chain transaction (or pre-authorized spending allowance) against your wallet. Gnosis Pay and its white-label wrappers dominate this category.
-
-- [1inch Debit Card](https://sweepbase.net/cards/1inch-debit-card) - Virtual + Physical, self-custody, 1% in BTC/USDT/1INCH, 2% card spend fee. [[Official]](https://1inch.io/card/)
-- [AmpBlack Card](https://sweepbase.net/cards/ampblack-card) - Virtual + Physical, self-custody, 1% cashback, 1% on non-USD purchases FX.
-- [Avalanche Card](https://sweepbase.net/cards/avalanche-card) - Virtual + Physical, self-custody, AVAX rewards on purchases, 1% advertised FX. [[Official]](https://core.app/card/)
-- [Avici Card](https://sweepbase.net/cards/avici-card) - Virtual + Physical, self-custody, 0% Avici fee, Visa Signature. [[Official]](https://avici.money/)
-- [Bleap Card](https://sweepbase.net/cards/bleap-card) - Virtual + Physical, self-custody, 1% base cashback on all purchases in USDC, Mastercard. [[Official]](https://www.bleap.finance/en-us/card/crypto-card)
-- [Cypher Card](https://sweepbase.net/cards/cypher-card) - Virtual + Physical, self-custody, Up to 35% in CYPR tokens, Standard 1.75% FX. [[Official]](https://cypherhq.io/)
-- [Deblock Card](https://sweepbase.net/cards/deblock-card) - Virtual + Physical, self-custody, Up to 1% cashback on Premium/Native plans, 0% advertised FX. [[Official]](https://deblock.com/)
-- [Decaf Card](https://sweepbase.net/cards/decaf-card) - Virtual + Physical, self-custody, 0% FX, Visa Debit. [[Official]](https://www.decaf.so/en/card)
-- [Ether.fi Cash Card](https://sweepbase.net/cards/etherfi-cash-card) - Virtual + Physical, self-custody, Up to 3% cashback, Visa Signature. [[Official]](https://app.ether.fi/cash)
-- [Exa Card](https://sweepbase.net/cards/exa-card) - Virtual + Physical, self-custody, Standard Visa FX rates, Visa Signature. [[Official]](https://exactly.app/)
-- [Exodus Card](https://sweepbase.net/cards/exodus-card) - Virtual only, self-custody, Mastercard. [[Official]](https://www.exodus.com/)
-- [Fiat24 Card](https://sweepbase.net/cards/fiat24-card) - Virtual only, self-custody, Mastercard Debit. [[Official]](https://fiat24.com/)
-- [Fuse Card](https://sweepbase.net/cards/fuse-card) - Virtual only, self-custody, Standard Visa rates, ~1% FX, Visa Prepaid. [[Official]](https://fusewallet.com/)
-- [Gnosis Pay Card](https://sweepbase.net/cards/gnosis-pay-card) - Virtual + Physical, self-custody, Up to 5% in GNO tokens, Visa Debit. [[Official]](https://gnosispay.com/)
-- [imToken Card](https://sweepbase.net/cards/imtoken-card) - Virtual + Physical, self-custody, Mastercard. [[Official]](https://token.im/)
-- [Jupiter Card](https://sweepbase.net/cards/jupiter-card) - Virtual only, self-custody, 1% FX fee, Visa. [[Official]](https://landing.global.jup.ag/)
-- [Kontigo Card](https://sweepbase.net/cards/kontigo-card) - Virtual + Physical, self-custody, Bitcoin cashback on card spending, Mastercard Prepaid. [[Official]](https://www.kontigo.com/)
-- [Ledger Card](https://sweepbase.net/cards/ledger-card) - Virtual + Physical, self-custody, 1% cashback in BTC or USDC, Standard Visa FX rates. [[Official]](https://www.ledger.com/)
-- [Mercuryo Spend Card](https://sweepbase.net/cards/mercuryo-spend-card) - Virtual only, self-custody, 0.95% off-ramp fee, Mastercard Debit. [[Official]](https://mercuryo.io/spend)
-- [MetaMask Card](https://sweepbase.net/cards/metamask-card) - Virtual + Physical, self-custody, Virtual: 1% mUSD cashback, Mastercard Debit. [[Official]](https://portfolio.metamask.io/card)
-- [Moonwell Card](https://sweepbase.net/cards/moonwell-card) - Virtual + Physical, self-custody, Visa Debit. [[Official]](https://card.moonwell.fi/)
-- [Morph Card](https://sweepbase.net/cards/morph-card) - Physical, self-custody, 0.3% handling fee, Mastercard Debit. [[Official]](https://morph.network)
-- [Offramp Card](https://sweepbase.net/cards/offramp-card) - Virtual + Physical, self-custody, Visa Prepaid. [[Official]](https://www.offramp.xyz/)
-- [Oobit Card](https://sweepbase.net/cards/oobit-card) - Virtual + Physical, self-custody, 2% base cashback in stablecoins, Visa Debit. [[Official]](https://oobit.com/)
-- [Orbitx Card](https://sweepbase.net/cards/orbitx-card) - Virtual + Physical, self-custody, Visa Signature. [[Official]](https://orbitxpay.com/)
-- [Osmosis Pay Card](https://sweepbase.net/cards/osmosis-pay-card) - Virtual + Physical, self-custody, Standard 2% FX, Visa Prepaid. [[Official]](https://pay.osmosis.zone/)
-- [Payy Card](https://sweepbase.net/cards/payy-card) - Virtual + Physical, self-custody, Visa. [[Official]](https://payy.network/)
-- [Phantom Cash Card](https://sweepbase.net/cards/phantom-cash-card) - Virtual only, self-custody, Standard Visa FX rates, Visa Prepaid. [[Official]](https://phantom.com/cash)
-- [Plasma One Card](https://sweepbase.net/cards/plasma-one-card) - Virtual + Physical, self-custody, Up to 4% in XPL tokens, Visa Prepaid. [[Official]](https://www.plasma.to/one)
-- [Pyra Card](https://sweepbase.net/cards/pyra-card) - Virtual + Physical, self-custody, 0% all fees, Visa Credit. [[Official]](https://www.pyra.fi/)
-- [Ready Card](https://sweepbase.net/cards/ready-card) - Virtual + Physical, self-custody, 0% markup FX, Mastercard Debit. [[Official]](https://www.ready.co/card)
-- [Rebind Card](https://sweepbase.net/cards/rebind-card) - Physical, self-custody, Up to 5% in GNO tokens, Visa Debit. [[Official]](https://rebind.co/)
-- [Rizon Card](https://sweepbase.net/cards/rizon-card) - Virtual + Physical, self-custody, 2.5% + $0.10 on non-USD FX, Visa Debit. [[Official]](https://www.getrizon.com/card)
-- [Solayer Card](https://sweepbase.net/cards/solayer-card) - Virtual + Physical, self-custody, 1% ongoing cashback + Emerald Points, $0.10 + 1.5% FX fee. [[Official]](https://solayer.org/product/card)
-- [Solflare Card](https://sweepbase.net/cards/solflare-card) - Virtual + Physical, self-custody, Mastercard Debit. [[Official]](https://solflare.com/)
-- [Solid Card](https://sweepbase.net/cards/solid-card) - Virtual + Physical, self-custody, 2% in FUSE tokens, Visa Debit. [[Official]](https://www.solid.xyz/card)
-- [Tangem Pay Card](https://sweepbase.net/cards/tangem-pay-card) - Virtual only, self-custody, 0% Tangem markup FX, Visa Prepaid. [[Official]](https://tangem.com/en/tangem-pay/)
-- [TapX Card](https://sweepbase.net/cards/tapx-card) - Virtual + Physical, self-custody, None disclosed, 1.50% cross-currency FX. [[Official]](https://tapxcard.io/)
-- [THORWallet Card](https://sweepbase.net/cards/thorwallet-card) - Virtual only, self-custody, TITN staking-based cashback, Mastercard Debit. [[Official]](https://www.thorwallet.org/)
-- [TokenPocket Card](https://sweepbase.net/cards/tokenpocket-card) - Virtual only, self-custody, Visa + Mastercard Debit. [[Official]](https://www.tokenpocket.pro/)
-- [Tria Card](https://sweepbase.net/cards/tria-card) - Virtual + Physical, self-custody, 1% intl fee, Visa Signature.
-- [Tuyo Card](https://sweepbase.net/cards/tuyo-card) - Virtual only, self-custody, TUYO rewards tokens, Standard Visa rates FX.
-- [Utorg Card](https://sweepbase.net/cards/utorg-card) - Virtual only, self-custody, Visa + Mastercard Prepaid. [[Official]](https://utorg.pro/)
-- [Xplace Card](https://sweepbase.net/cards/xplace-card) - Virtual + Physical, self-custody, 0.5-2% real-time USDC cashback, Visa Credit.
-- [xPortal Card](https://sweepbase.net/cards/xportal-card) - Virtual + Physical, self-custody, Up to 0.5% with EGLD staking, Mastercard Prepaid. [[Official]](https://xportal.com/)
-- [Zypto Card](https://sweepbase.net/cards/zypto-card) - Virtual + Physical, self-custody, ZYP reward points on card spending, 1.75% FX fee. [[Official]](https://zypto.com/)
-
-## By Use Case
-
-### Yield-Bearing Cards
-
-Card balance earns yield via staking, lending, or vault strategies. Real yields vary a lot, and some "APY" rates are effectively promotional credits rather than protocol yield. Read the fine print.
-
-- [1inch Debit Card](https://sweepbase.net/cards/1inch-debit-card) - Virtual + Physical, self-custody, 1% in BTC/USDT/1INCH, 2% card spend fee. [[Official]](https://1inch.io/card/)
-- [AmpBlack Card](https://sweepbase.net/cards/ampblack-card) - Virtual + Physical, self-custody, 1% cashback, 1% on non-USD purchases FX.
-- [Avalanche Card](https://sweepbase.net/cards/avalanche-card) - Virtual + Physical, self-custody, AVAX rewards on purchases, 1% advertised FX. [[Official]](https://core.app/card/)
-- [Avici Card](https://sweepbase.net/cards/avici-card) - Virtual + Physical, self-custody, 0% Avici fee, Visa Signature. [[Official]](https://avici.money/)
-- [Bit2Me Card](https://sweepbase.net/cards/bit2me-card) - Virtual + Physical, custodial, 0% within EU FX, Visa Debit. [[Official]](https://bit2me.com/card)
-- [Bitget Card](https://sweepbase.net/cards/bitget-card) - Virtual + Physical, custodial, Visa.
-- [Bitpanda Card](https://sweepbase.net/cards/bitpanda-card) - Virtual + Physical, custodial, 0-2% cashback tiered by BEST token holdings, 0% Bitpanda FX fee. [[Official]](https://www.bitpanda.com/en/card)
-- [Bleap Card](https://sweepbase.net/cards/bleap-card) - Virtual + Physical, self-custody, 1% base cashback on all purchases in USDC, Mastercard. [[Official]](https://www.bleap.finance/en-us/card/crypto-card)
-- [Brighty Card](https://sweepbase.net/cards/brighty-card) - Virtual + Physical, custodial, Up to 1.75%, Visa. [[Official]](https://brighty.app/)
-- [Bybit Card](https://sweepbase.net/cards/bybit-card) - Virtual + Physical, custodial, 0.5% EEA/CH/MX FX, Mastercard (EEA/Switzerland); Visa (Asia-Pacific). [[Official]](https://www.bybit.com/en/bybit-card)
-- [Cardano Card](https://sweepbase.net/cards/cardano-card) - Virtual + Physical, custodial, Up to 8% crypto cashback, Standard Visa rates FX. [[Official]](https://cardanocard.io/)
-- [CEX.IO Card](https://sweepbase.net/cards/cexio-card) - Virtual + Physical, custodial, Up to 2% cashback, Visa Debit. [[Official]](https://cex.io/cards)
-- [COCA Card](https://sweepbase.net/cards/coca-card) - Virtual + Physical, Tiered cashback: 1% base, 0% FX fees, Mastercard (issued via Wirex). [[Official]](https://www.coca.xyz/)
-- [Coinbase Card](https://sweepbase.net/cards/coinbase-card) - Virtual + Physical, custodial, Up to 4% crypto cashback, Visa Debit. [[Official]](https://www.coinbase.com/card)
-- [CoinZoom Card](https://sweepbase.net/cards/coinzoom-card) - Virtual + Physical, custodial, Up to 5% cashback paid in ZOOM token, Visa Debit. [[Official]](https://www.coinzoom.com/)
-- [Crypto.com Visa Card](https://sweepbase.net/cards/cryptocom-visa-card) - Virtual + Physical, custodial, Up to 5% CRO rewards via staking or subscription, Visa (Standard to Obsidian tiers). [[Official]](https://crypto.com/cards)
-- [Cypher Card](https://sweepbase.net/cards/cypher-card) - Virtual + Physical, self-custody, Up to 35% in CYPR tokens, Standard 1.75% FX. [[Official]](https://cypherhq.io/)
-- [Deblock Card](https://sweepbase.net/cards/deblock-card) - Virtual + Physical, self-custody, Up to 1% cashback on Premium/Native plans, 0% advertised FX. [[Official]](https://deblock.com/)
-- [Decard Card](https://sweepbase.net/cards/decard-card) - Virtual + Physical, custodial, Available, Visa (Premium metal: Luminaries). [[Official]](https://thedecard.com/)
-- [Ether.fi Cash Card](https://sweepbase.net/cards/etherfi-cash-card) - Virtual + Physical, self-custody, Up to 3% cashback, Visa Signature. [[Official]](https://app.ether.fi/cash)
-- [Exa Card](https://sweepbase.net/cards/exa-card) - Virtual + Physical, self-custody, Standard Visa FX rates, Visa Signature. [[Official]](https://exactly.app/)
-- [Exodus Card](https://sweepbase.net/cards/exodus-card) - Virtual only, self-custody, Mastercard. [[Official]](https://www.exodus.com/)
-- [Fizen Card](https://sweepbase.net/cards/fizen-card) - Virtual + Physical, custodial, 8% in $FIZEN token, Visa. [[Official]](https://fizen.io/)
-- [Fold Card](https://sweepbase.net/cards/fold-card) - Virtual + Physical, custodial, Up to 2% back in Bitcoin, Visa Credit Card. [[Official]](https://foldapp.com/)
-- [Fuse Card](https://sweepbase.net/cards/fuse-card) - Virtual only, self-custody, Standard Visa rates, ~1% FX, Visa Prepaid. [[Official]](https://fusewallet.com/)
-- [Gate Card](https://sweepbase.net/cards/gate-card) - Virtual + Physical, custodial, Up to 5% cashback via T0-T4 tiered system, 0.2% FX within EEA. [[Official]](https://www.gate.io/card)
-- [Gemini Credit Card](https://sweepbase.net/cards/gemini-credit-card) - Virtual + Physical, custodial, Mastercard Credit. [[Official]](https://www.gemini.com/credit-card)
-- [Kardpay Card](https://sweepbase.net/cards/kardpay-card) - Virtual only, custodial, KDY staking provides fee discounts, Standard network rates FX. [[Official]](https://www.kardpay.app/)
-- [KAST Card](https://sweepbase.net/cards/kast-card) - Virtual + Physical, custodial, Season 6, 0.5-1.75% FX on non-USD. [[Official]](https://www.kast.xyz/crypto-cards)
-- [Kontigo Card](https://sweepbase.net/cards/kontigo-card) - Virtual + Physical, self-custody, Bitcoin cashback on card spending, Mastercard Prepaid. [[Official]](https://www.kontigo.com/)
-- [Krak Card](https://sweepbase.net/cards/krak-card) - Virtual + Physical, custodial, Up to 1% in fiat or BTC, 0% FX. [[Official]](https://www.kraken.com/krak/card)
-- [Kraken Card](https://sweepbase.net/cards/kraken-card) - Virtual + Physical, custodial, 1% cashback in BTC or fiat, Mastercard Debit. [[Official]](https://www.kraken.com/)
-- [Kripi Card](https://sweepbase.net/cards/kripi-card) - Virtual only, custodial, Fee discounts up to 50% when staking KRIPI tokens, Visa + Mastercard Prepaid. [[Official]](https://kripicard.com/)
-- [KuCard](https://sweepbase.net/cards/kucard) - Virtual + Physical, custodial, 1-3% base, 2% international FX fee. [[Official]](https://www.kucoin.com/kucard)
-- [Mobilum Card](https://sweepbase.net/cards/mobilum-card) - Virtual + Physical, custodial, Mastercard Prepaid. [[Official]](https://www.mobilum.com/en/cards)
-- [Moonwell Card](https://sweepbase.net/cards/moonwell-card) - Virtual + Physical, self-custody, Visa Debit. [[Official]](https://card.moonwell.fi/)
-- [Nebeus Card](https://sweepbase.net/cards/nebeus-card) - Virtual + Physical, custodial, Likely discontinued, 0% foreign exchange fee. [[Official]](https://nebeus.com/)
-- [Nexo Card](https://sweepbase.net/cards/nexo-card) - Virtual + Physical, custodial, Up to 2% in NEXO tokens or 0.5% in BTC, 0.2% EEA/UK/CH FX. [[Official]](https://nexo.com/card)
-- [Plasma One Card](https://sweepbase.net/cards/plasma-one-card) - Virtual + Physical, self-custody, Up to 4% in XPL tokens, Visa Prepaid. [[Official]](https://www.plasma.to/one)
-- [Pyra Card](https://sweepbase.net/cards/pyra-card) - Virtual + Physical, self-custody, 0% all fees, Visa Credit. [[Official]](https://www.pyra.fi/)
-- [Ready Card](https://sweepbase.net/cards/ready-card) - Virtual + Physical, self-custody, 0% markup FX, Mastercard Debit. [[Official]](https://www.ready.co/card)
-- [RedotPay Card](https://sweepbase.net/cards/redotpay-card) - Virtual + Physical, custodial, Varies by promotional programs, Visa Prepaid. [[Official]](https://www.redotpay.com/)
-- [Revolut Card](https://sweepbase.net/cards/revolut-card) - Virtual + Physical, custodial, Metal/Ultra: 0.1% in Europe and 1% outside Europe, Visa + Mastercard Debit. [[Official]](https://www.revolut.com/)
-- [SafePal Card](https://sweepbase.net/cards/safepal-card) - Virtual + Physical, custodial, Mastercard Debit. [[Official]](https://www.safepal.com/)
-- [Solayer Card](https://sweepbase.net/cards/solayer-card) - Virtual + Physical, self-custody, 1% ongoing cashback + Emerald Points, $0.10 + 1.5% FX fee. [[Official]](https://solayer.org/product/card)
-- [Solid Card](https://sweepbase.net/cards/solid-card) - Virtual + Physical, self-custody, 2% in FUSE tokens, Visa Debit. [[Official]](https://www.solid.xyz/card)
-- [SwissBorg Card](https://sweepbase.net/cards/swissborg-card) - Virtual + Physical, custodial, Up to 2% cashback, 0% within EU FX. [[Official]](https://swissborg.com/card)
-- [Tangem Pay Card](https://sweepbase.net/cards/tangem-pay-card) - Virtual only, self-custody, 0% Tangem markup FX, Visa Prepaid. [[Official]](https://tangem.com/en/tangem-pay/)
-- [Trade Republic Card](https://sweepbase.net/cards/trade-republic-card) - Physical, custodial, 0% foreign exchange fees, Visa Debit. [[Official]](https://traderepublic.com/)
-- [Tria Card](https://sweepbase.net/cards/tria-card) - Virtual + Physical, self-custody, 1% intl fee, Visa Signature.
-- [Tuyo Card](https://sweepbase.net/cards/tuyo-card) - Virtual only, self-custody, TUYO rewards tokens, Standard Visa rates FX.
-- [Wealthsimple Card](https://sweepbase.net/cards/wealthsimple-card) - Virtual + Physical, custodial, 1% cashback, 0% FX. [[Official]](https://wealthsimple.com)
-- [Wise Card](https://sweepbase.net/cards/wise-card) - Virtual + Physical, custodial, 0.33-3.5% FX, Visa Debit. [[Official]](https://wise.com/card)
-- [Xapo Bank Card](https://sweepbase.net/cards/xapo-bank-card) - Virtual + Physical, custodial, Up to 1.0% BTC cashback, 0% foreign exchange fees. [[Official]](https://www.xapo.com/)
-- [Xplace Card](https://sweepbase.net/cards/xplace-card) - Virtual + Physical, self-custody, 0.5-2% real-time USDC cashback, Visa Credit.
-
-### Stablecoin-First Cards
-
-Top up with USDC, USDT, or DAI. Lower volatility than BTC/ETH funding, and many of these skip the tax-event-per-swipe problem since stablecoins don't fluctuate in USD terms.
-
-- [1inch Debit Card](https://sweepbase.net/cards/1inch-debit-card) - Virtual + Physical, self-custody, 1% in BTC/USDT/1INCH, 2% card spend fee. [[Official]](https://1inch.io/card/)
-- [Airtm Card](https://sweepbase.net/cards/airtm-card) - Virtual only, custodial, Visa Prepaid. [[Official]](https://www.airtm.com)
-- [Avalanche Card](https://sweepbase.net/cards/avalanche-card) - Virtual + Physical, self-custody, AVAX rewards on purchases, 1% advertised FX. [[Official]](https://core.app/card/)
-- [Based Card](https://sweepbase.net/cards/based-card) - Virtual + Physical, custodial, Points-based system, Visa Prepaid.
-- [Binance Card](https://sweepbase.net/cards/binance-card) - Virtual + Physical, custodial, Up to 2% BNB cashback, Mastercard Prepaid. [[Official]](https://www.binance.com/en/cards)
-- [Bing Card](https://sweepbase.net/cards/bing-card) - Virtual + Physical, custodial, Visa + Mastercard (both virtual); Visa (physical). [[Official]](https://www.bingcard.com/)
-- [BingX Card](https://sweepbase.net/cards/bingx-card) - Virtual + Physical, custodial, 2% FX, Mastercard Debit. [[Official]](https://bingx.com)
-- [Bit.Store Card](https://sweepbase.net/cards/bitstore-card) - Virtual + Physical, custodial, Cryptoback rewards on physical card purchases, Visa + Mastercard. [[Official]](https://bit.store/)
-- [Bit2Me Card](https://sweepbase.net/cards/bit2me-card) - Virtual + Physical, custodial, 0% within EU FX, Visa Debit. [[Official]](https://bit2me.com/card)
-- [Bitget Card](https://sweepbase.net/cards/bitget-card) - Virtual + Physical, custodial, Visa.
-- [BitPay Card](https://sweepbase.net/cards/bitpay-card) - Virtual only, custodial, Mastercard. [[Official]](https://bitpay.com/card/)
-- [Bitrefill Card](https://sweepbase.net/cards/bitrefill-card) - Virtual + Physical, custodial, Visa. [[Official]](https://www.bitrefill.com/card/)
-- [Bleap Card](https://sweepbase.net/cards/bleap-card) - Virtual + Physical, self-custody, 1% base cashback on all purchases in USDC, Mastercard. [[Official]](https://www.bleap.finance/en-us/card/crypto-card)
-- [Blockchain.com Card](https://sweepbase.net/cards/blockchaincom-card) - Virtual + Physical, custodial, Up to 1.5% cashback in crypto, Visa Debit. [[Official]](https://www.blockchain.com/card)
-- [Bybit Card](https://sweepbase.net/cards/bybit-card) - Virtual + Physical, custodial, 0.5% EEA/CH/MX FX, Mastercard (EEA/Switzerland); Visa (Asia-Pacific). [[Official]](https://www.bybit.com/en/bybit-card)
-- [Cardano Card](https://sweepbase.net/cards/cardano-card) - Virtual + Physical, custodial, Up to 8% crypto cashback, Standard Visa rates FX. [[Official]](https://cardanocard.io/)
-- [CEX.IO Card](https://sweepbase.net/cards/cexio-card) - Virtual + Physical, custodial, Up to 2% cashback, Visa Debit. [[Official]](https://cex.io/cards)
-- [COCA Card](https://sweepbase.net/cards/coca-card) - Virtual + Physical, Tiered cashback: 1% base, 0% FX fees, Mastercard (issued via Wirex). [[Official]](https://www.coca.xyz/)
-- [Coinbase Card](https://sweepbase.net/cards/coinbase-card) - Virtual + Physical, custodial, Up to 4% crypto cashback, Visa Debit. [[Official]](https://www.coinbase.com/card)
-- [CoinW Card](https://sweepbase.net/cards/coinw-card) - Virtual + Physical, custodial, 1% transaction fee, Mastercard Prepaid. [[Official]](https://www.coinw.com/crypto-card)
-- [CoinZoom Card](https://sweepbase.net/cards/coinzoom-card) - Virtual + Physical, custodial, Up to 5% cashback paid in ZOOM token, Visa Debit. [[Official]](https://www.coinzoom.com/)
-- [Cryptomus Card](https://sweepbase.net/cards/cryptomus-card) - Virtual only, custodial, Visa + Mastercard (user choice). [[Official]](https://cryptomus.com/cards)
-- [Cypher Card](https://sweepbase.net/cards/cypher-card) - Virtual + Physical, self-custody, Up to 35% in CYPR tokens, Standard 1.75% FX. [[Official]](https://cypherhq.io/)
-- [Deblock Card](https://sweepbase.net/cards/deblock-card) - Virtual + Physical, self-custody, Up to 1% cashback on Premium/Native plans, 0% advertised FX. [[Official]](https://deblock.com/)
-- [Decaf Card](https://sweepbase.net/cards/decaf-card) - Virtual + Physical, self-custody, 0% FX, Visa Debit. [[Official]](https://www.decaf.so/en/card)
-- [Decard Card](https://sweepbase.net/cards/decard-card) - Virtual + Physical, custodial, Available, Visa (Premium metal: Luminaries). [[Official]](https://thedecard.com/)
-- [Emoney Card](https://sweepbase.net/cards/emoney-card) - Physical, custodial, Mastercard (Smart and Premium tiers). [[Official]](https://cards.emoney.io/)
-- [Ether.fi Cash Card](https://sweepbase.net/cards/etherfi-cash-card) - Virtual + Physical, self-custody, Up to 3% cashback, Visa Signature. [[Official]](https://app.ether.fi/cash)
-- [Exa Card](https://sweepbase.net/cards/exa-card) - Virtual + Physical, self-custody, Standard Visa FX rates, Visa Signature. [[Official]](https://exactly.app/)
-- [Exodus Card](https://sweepbase.net/cards/exodus-card) - Virtual only, self-custody, Mastercard. [[Official]](https://www.exodus.com/)
-- [Extsy Card](https://sweepbase.net/cards/extsy-card) - Virtual only, custodial, Promotional offers available, Mastercard + Visa. [[Official]](https://extsy.com/extsy-card)
-- [Fiat24 Card](https://sweepbase.net/cards/fiat24-card) - Virtual only, self-custody, Mastercard Debit. [[Official]](https://fiat24.com/)
-- [Fizen Card](https://sweepbase.net/cards/fizen-card) - Virtual + Physical, custodial, 8% in $FIZEN token, Visa. [[Official]](https://fizen.io/)
-- [Fuse Card](https://sweepbase.net/cards/fuse-card) - Virtual only, self-custody, Standard Visa rates, ~1% FX, Visa Prepaid. [[Official]](https://fusewallet.com/)
-- [Gate Card](https://sweepbase.net/cards/gate-card) - Virtual + Physical, custodial, Up to 5% cashback via T0-T4 tiered system, 0.2% FX within EEA. [[Official]](https://www.gate.io/card)
-- [Gnosis Pay Card](https://sweepbase.net/cards/gnosis-pay-card) - Virtual + Physical, self-custody, Up to 5% in GNO tokens, Visa Debit. [[Official]](https://gnosispay.com/)
-- [HODL Card](https://sweepbase.net/cards/hodl-card) - Physical, custodial, Mastercard Debit. [[Official]](https://clubswan.com)
-- [imToken Card](https://sweepbase.net/cards/imtoken-card) - Virtual + Physical, self-custody, Mastercard. [[Official]](https://token.im/)
-- [Jupiter Card](https://sweepbase.net/cards/jupiter-card) - Virtual only, self-custody, 1% FX fee, Visa. [[Official]](https://landing.global.jup.ag/)
-- [Karta Card](https://sweepbase.net/cards/karta-card) - Virtual only, custodial, Visa Signature. [[Official]](https://karta.io/)
-- [KAST Card](https://sweepbase.net/cards/kast-card) - Virtual + Physical, custodial, Season 6, 0.5-1.75% FX on non-USD. [[Official]](https://www.kast.xyz/crypto-cards)
-- [Kazepay Card](https://sweepbase.net/cards/kazepay-card) - Virtual + Physical, custodial, Visa + Mastercard Prepaid. [[Official]](https://kazepay.com/)
-- [Kemy Card](https://sweepbase.net/cards/kemy-card) - Virtual + Physical, custodial, 8% crypto top-up fee, Visa + Mastercard Prepaid. [[Official]](https://kemycard.com/en/home)
-- [Keytom Card](https://sweepbase.net/cards/keytom-card) - Virtual only, custodial, 1.35% FX, Visa + Mastercard (user choice). [[Official]](https://keytom.com/card)
-- [Kolo Card](https://sweepbase.net/cards/kolo-card) - Virtual + Physical, 2% BTC cashback standard, 0% FX fees, Visa + Mastercard Prepaid.
-- [KuCard](https://sweepbase.net/cards/kucard) - Virtual + Physical, custodial, 1-3% base, 2% international FX fee. [[Official]](https://www.kucoin.com/kucard)
-- [MaxSwap Card](https://sweepbase.net/cards/maxswap-card) - Virtual only, custodial, Mastercard Prepaid. [[Official]](https://maxswap.com/)
-- [MetaMask Card](https://sweepbase.net/cards/metamask-card) - Virtual + Physical, self-custody, Virtual: 1% mUSD cashback, Mastercard Debit. [[Official]](https://portfolio.metamask.io/card)
-- [Moonwell Card](https://sweepbase.net/cards/moonwell-card) - Virtual + Physical, self-custody, Visa Debit. [[Official]](https://card.moonwell.fi/)
-- [Noones Card](https://sweepbase.net/cards/noones-card) - Virtual only, custodial, Visa Prepaid. [[Official]](https://noones.com)
-- [OKX Card](https://sweepbase.net/cards/okx-card) - Virtual only, custodial, Launch promotion, 0.1% conversion spread FX. [[Official]](https://www.okx.com/)
-- [Onboard Card](https://sweepbase.net/cards/onboard-card) - Virtual only, custodial, 1 USDC per transaction $10-$1000, Visa Prepaid. [[Official]](https://www.onboard.xyz/)
-- [Oobit Card](https://sweepbase.net/cards/oobit-card) - Virtual + Physical, self-custody, 2% base cashback in stablecoins, Visa Debit. [[Official]](https://oobit.com/)
-- [Orbitx Card](https://sweepbase.net/cards/orbitx-card) - Virtual + Physical, self-custody, Visa Signature. [[Official]](https://orbitxpay.com/)
-- [Payy Card](https://sweepbase.net/cards/payy-card) - Virtual + Physical, self-custody, Visa. [[Official]](https://payy.network/)
-- [Pintopay Card](https://sweepbase.net/cards/pintopay-card) - Virtual + Physical, custodial, Visa + Mastercard Prepaid.
-- [Plasma One Card](https://sweepbase.net/cards/plasma-one-card) - Virtual + Physical, self-custody, Up to 4% in XPL tokens, Visa Prepaid. [[Official]](https://www.plasma.to/one)
-- [Pyra Card](https://sweepbase.net/cards/pyra-card) - Virtual + Physical, self-custody, 0% all fees, Visa Credit. [[Official]](https://www.pyra.fi/)
-- [Ready Card](https://sweepbase.net/cards/ready-card) - Virtual + Physical, self-custody, 0% markup FX, Mastercard Debit. [[Official]](https://www.ready.co/card)
-- [Rebind Card](https://sweepbase.net/cards/rebind-card) - Physical, self-custody, Up to 5% in GNO tokens, Visa Debit. [[Official]](https://rebind.co/)
-- [RedotPay Card](https://sweepbase.net/cards/redotpay-card) - Virtual + Physical, custodial, Varies by promotional programs, Visa Prepaid. [[Official]](https://www.redotpay.com/)
-- [Revolut Card](https://sweepbase.net/cards/revolut-card) - Virtual + Physical, custodial, Metal/Ultra: 0.1% in Europe and 1% outside Europe, Visa + Mastercard Debit. [[Official]](https://www.revolut.com/)
-- [Rizon Card](https://sweepbase.net/cards/rizon-card) - Virtual + Physical, self-custody, 2.5% + $0.10 on non-USD FX, Visa Debit. [[Official]](https://www.getrizon.com/card)
-- [SafePal Card](https://sweepbase.net/cards/safepal-card) - Virtual + Physical, custodial, Mastercard Debit. [[Official]](https://www.safepal.com/)
-- [SolCard](https://sweepbase.net/cards/solcard) - Virtual only, custodial, SOLC stakers earn cashback in SOLC or SOL tokens, Visa + Mastercard Prepaid. [[Official]](https://www.solcard.cc/)
-- [Solflare Card](https://sweepbase.net/cards/solflare-card) - Virtual + Physical, self-custody, Mastercard Debit. [[Official]](https://solflare.com/)
-- [Solid Card](https://sweepbase.net/cards/solid-card) - Virtual + Physical, self-custody, 2% in FUSE tokens, Visa Debit. [[Official]](https://www.solid.xyz/card)
-- [Stables Card](https://sweepbase.net/cards/stables-card) - Virtual + Physical, custodial, 2% FX, Visa Prepaid. [[Official]](https://stables.money)
-- [SwissBorg Card](https://sweepbase.net/cards/swissborg-card) - Virtual + Physical, custodial, Up to 2% cashback, 0% within EU FX. [[Official]](https://swissborg.com/card)
-- [Tangem Pay Card](https://sweepbase.net/cards/tangem-pay-card) - Virtual only, self-custody, 0% Tangem markup FX, Visa Prepaid. [[Official]](https://tangem.com/en/tangem-pay/)
-- [Tap Card](https://sweepbase.net/cards/tap-card) - Virtual + Physical, custodial, Mastercard Debit. [[Official]](https://www.tap.global/)
-- [THORWallet Card](https://sweepbase.net/cards/thorwallet-card) - Virtual only, self-custody, TITN staking-based cashback, Mastercard Debit. [[Official]](https://www.thorwallet.org/)
-- [TokenPocket Card](https://sweepbase.net/cards/tokenpocket-card) - Virtual only, self-custody, Visa + Mastercard Debit. [[Official]](https://www.tokenpocket.pro/)
-- [Tria Card](https://sweepbase.net/cards/tria-card) - Virtual + Physical, self-custody, 1% intl fee, Visa Signature.
-- [Trustee Card](https://sweepbase.net/cards/trustee-card) - Virtual + Physical, custodial, 0.5% crypto conversion FX, Mastercard Debit.
-- [Tuyo Card](https://sweepbase.net/cards/tuyo-card) - Virtual only, self-custody, TUYO rewards tokens, Standard Visa rates FX.
-- [UltimoPay Card](https://sweepbase.net/cards/ultimopay-card) - Virtual + Physical, custodial, Visa + UnionPay. [[Official]](https://ultimopay.io/debit-card/)
-- [UR Card](https://sweepbase.net/cards/ur-card) - Virtual only, Mastercard Debit. [[Official]](https://ur.app/)
-- [Volet Card](https://sweepbase.net/cards/volet-card) - Virtual + Physical, custodial, Visa + Mastercard Prepaid (varies by program). [[Official]](https://volet.com)
-- [Wayex Card](https://sweepbase.net/cards/wayex-card) - Virtual + Physical, custodial, Advertised up to 8% cashback in X-Points, Visa Debit. [[Official]](https://wayex.com/)
-- [WhiteBIT Card](https://sweepbase.net/cards/whitebit-card) - Virtual + Physical, custodial, Standard Visa FX rates, Visa Debit. [[Official]](https://whitebit.com/)
-- [Xplace Card](https://sweepbase.net/cards/xplace-card) - Virtual + Physical, self-custody, 0.5-2% real-time USDC cashback, Visa Credit.
+- **Yield-Bearing (APY on balance)** (55): 1inch Debit, AmpBlack, Avalanche, Avici, Bit2Me, Bitget, Bitpanda, Bleap, Brighty, Bybit, Cardano, CEX.IO, COCA, Coinbase, CoinZoom, Crypto.com Visa, Cypher, Deblock, Decard, Ether.fi Cash, Exa, Exodus, Fizen, Fold, Fuse, Gate, Gemini Credit, Kardpay, KAST, Kontigo, Krak, Kraken, Kripi, KuCard, Mobilum, Moonwell, Nebeus, Nexo, Plasma One, Pyra, Ready, RedotPay, Revolut, SafePal, Solayer, Solid, SwissBorg, Tangem Pay, Trade Republic, Tria, Tuyo, Wealthsimple, Wise, Xapo Bank, Xplace
+- **Stablecoin Top-Ups (USDC/USDT)** (82): 1inch Debit, Airtm, Avalanche, Based, Binance, Bing, BingX, Bit.Store, Bit2Me, Bitget, BitPay, Bitrefill, Bleap, Blockchain.com, Bybit, Cardano, CEX.IO, COCA, Coinbase, CoinW, CoinZoom, Cryptomus, Cypher, Deblock, Decaf, Decard, Emoney, Ether.fi Cash, Exa, Exodus, Extsy, Fiat24, Fizen, Fuse, Gate, Gnosis Pay, HODL, imToken, Jupiter, Karta, KAST, Kazepay, Kemy, Keytom, Kolo, KuCard, MaxSwap, MetaMask, Moonwell, Noones, OKX, Onboard, Oobit, Orbitx, Payy, Pintopay, Plasma One, Pyra, Ready, Rebind, RedotPay, Revolut, Rizon, SafePal, SolCard, Solflare, Solid, Stables, SwissBorg, Tangem Pay, Tap, THORWallet, TokenPocket, Tria, Trustee, Tuyo, UltimoPay, UR, Volet, Wayex, WhiteBIT, Xplace
+- **Zero FX Fee** (48): 1inch Debit, Avici, Bing, BingX, Bit2Me, Bitpanda, BitPay, Bitrefill, Bleap, Blockchain.com, COCA, Coinbase, Crypto.com Visa, Deblock, Decaf, Fold, Gemini Credit, Gnosis Pay, Holyheld, KAST, Kolo, Krak, Kraken, MetaMask, Moonwell, Nebeus, Pyra, Ready, Rebind, Rizon, Shakepay, SolCard, Solflare, SpectroCoin, Stables, SwissBorg, Tangem Pay, TapX, Trade Republic, Trustee, Uphold, UR, Volet, Wayex, Wealthsimple, Wirex, Xapo Bank, Zebec
+- **Virtual + Physical** (98): 1inch Debit, AmpBlack, Avalanche, Avici, Based, Binance, Bing, BingX, BipTap, Bit.Store, Bit2Me, Bitget, Bitpanda, Bitrefill, Bitsa, Bitstack, Bleap, Blockchain.com, Brighty, Bybit, Cardano, CEX.IO, COCA, Coinbase, CoinJar, CoinW, CoinZoom, Crypto.com Visa, Cryptopay, Cypher, Deblock, Decaf, Decard, Ether.fi Cash, Exa, Fizen, Fold, Gate, Gemini Credit, Gnosis Pay, Hi.com, Holyheld, imToken, KAST, Kazepay, Kemy, Kolo, Kontigo, Krak, Kraken, KuCard, Ledger, Lemon, MetaMask, Mobilum, Moonwell, Nebeus, Nexo, Offramp, Oobit, Orbitx, Osmosis Pay, Payy, Pintopay, Plasma One, Plutus, Pyra, Ready, RedotPay, Revolut, Ripio, Rizon, SafePal, Shakepay, Solayer, Solflare, Solid, SpectroCoin, Spritz, Stables, SwissBorg, Tap, TapX, Tria, Trustee, UltimoPay, Uphold, Volet, Wayex, Wealthsimple, WhiteBIT, Wirex, Wise, Xapo Bank, Xplace, xPortal, YouHodler, Zypto
 
 ## Guides and Research
 
@@ -559,7 +211,7 @@ Long-form analysis and regional breakdowns. All free, no signup wall.
 
 ## Tools
 
-- [Sweepbase Card Database](https://sweepbase.net/cards) - All 139 cards, filterable by region, network, custody, cashback, and more.
+- [Sweepbase Card Database](https://sweepbase.net/cards) - All 133 cards, filterable by region, network, custody, cashback, and more.
 - [Sweepbase Comparison Tool](https://sweepbase.net/compare) - Side-by-side comparison of up to four cards at a time.
 - [Sweepbase Fee Calculator](https://sweepbase.net/calculator) - Estimate your real annual cost including FX, ATM, and cashback offsets for your actual spend pattern.
 
@@ -571,4 +223,4 @@ Long-form analysis and regional breakdowns. All free, no signup wall.
 
 ## Contributing
 
-Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request. Entries must be real, shipping products with a public website — no roadmap items, no concepts, no referral-only entries without substance.
+Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request. Entries must be real, shipping products with a public website — no roadmap items, no concepts, no referral-only entries without substance.
