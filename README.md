@@ -1,4 +1,4 @@
-# Awesome Crypto Cards [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Crypto Cards [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome Lint](https://github.com/mbtrilla/awesome-crypto-cards/actions/workflows/main.yml/badge.svg)](https://github.com/mbtrilla/awesome-crypto-cards/actions/workflows/main.yml)
 
 > A curated list of crypto debit and credit cards.
 
