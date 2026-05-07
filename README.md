@@ -4,7 +4,7 @@
 
 Crypto cards let you spend Bitcoin, Ethereum, or stablecoins (USDC, USDT, DAI) at any merchant that takes Visa or Mastercard. Some convert your balance on the fly from a custodial exchange. Others charge a self-custody wallet directly on-chain when you swipe. The tradeoffs between those two models — KYC, taxes, FX markup, cashback legitimacy — are bigger than most people think.
 
-This list only tracks cards that actually ship. No vaporware, no whitepapers, no "coming Q3 2026" entries. The same data powers [Sweepbase](https://sweepbase.net), a free comparison tool covering these 133 cards across 35+ attributes.
+This list only tracks cards that actually ship. No vaporware, no whitepapers, no "coming Q3 2026" entries. The same data powers [Sweepbase](https://sweepbase.net), a free comparison tool covering these 136 cards across 35+ attributes.
 
 Each entry has two links: a detailed review on Sweepbase, and — where available — the official issuer site. The Filters section below groups cards by region, custody model, and use case.
 
@@ -32,6 +32,7 @@ Alphabetical. Each entry shows custody model, card type, available regions, cash
 - [Bit.Store Card](https://sweepbase.net/cards/bitstore-card) - Custodial, virtual + physical, UK/Canada/EU/LatAm/Asia/AU/MENA, Cryptoback rewards on physical card purchases, Visa + Mastercard. [Official site](https://bit.store/)
 - [Bit2Me Card](https://sweepbase.net/cards/bit2me-card) - Custodial, virtual + physical, EU/LatAm, Visa Debit. [Official site](https://bit2me.com/card)
 - [Bitget Card](https://sweepbase.net/cards/bitget-card) - Custodial, virtual + physical, UK/LatAm/Asia/AU, Visa.
+- [BitMart Card](https://sweepbase.net/cards/bitmart-card) - Custodial, virtual + physical, Global, Visa Debit. [Official site](https://www.bitmart.com)
 - [Bitpanda Card](https://sweepbase.net/cards/bitpanda-card) - Custodial, virtual + physical, 0-2% cashback tiered by BEST token holdings, Visa. [Official site](https://www.bitpanda.com/en/card)
 - [BitPay Card](https://sweepbase.net/cards/bitpay-card) - Custodial, virtual only, Mastercard. [Official site](https://bitpay.com/card/)
 - [Bitrefill Card](https://sweepbase.net/cards/bitrefill-card) - Custodial, virtual + physical, EU, Visa. [Official site](https://www.bitrefill.com/card/)
@@ -90,6 +91,7 @@ Alphabetical. Each entry shows custody model, card type, available regions, cash
 - [MaxSwap Card](https://sweepbase.net/cards/maxswap-card) - Custodial, virtual only, Mastercard Prepaid. [Official site](https://maxswap.com/)
 - [Mercuryo Spend Card](https://sweepbase.net/cards/mercuryo-spend-card) - Self-custody, virtual only, EU, Mastercard Debit. [Official site](https://mercuryo.io/spend)
 - [MetaMask Card](https://sweepbase.net/cards/metamask-card) - Self-custody, virtual + physical, USA/UK/Canada/EU/LatAm, virtual: 1% musd cashback, Mastercard Debit. [Official site](https://portfolio.metamask.io/card)
+- [MEXC Card](https://sweepbase.net/cards/mexc-card) - Custodial, virtual + physical, Global, Mastercard Debit. [Official site](https://www.mexc.com/card)
 - [Mobilum Card](https://sweepbase.net/cards/mobilum-card) - Custodial, virtual + physical, EU, Mastercard Prepaid. [Official site](https://www.mobilum.com/en/cards)
 - [Moonwell Card](https://sweepbase.net/cards/moonwell-card) - Self-custody, virtual + physical, USA/UK/LatAm, Visa Debit. [Official site](https://card.moonwell.fi/)
 - [Morph Card](https://sweepbase.net/cards/morph-card) - Self-custody, physical, Asia, Mastercard Debit. [Official site](https://morph.network)
@@ -104,6 +106,7 @@ Alphabetical. Each entry shows custody model, card type, available regions, cash
 - [Orbitx Card](https://sweepbase.net/cards/orbitx-card) - Self-custody, virtual + physical, Visa Signature. [Official site](https://orbitxpay.com/)
 - [Osmosis Pay Card](https://sweepbase.net/cards/osmosis-pay-card) - Self-custody, virtual + physical, UK/Canada/EU/LatAm/Asia/AU/MENA, Visa Prepaid. [Official site](https://pay.osmosis.zone/)
 - [Payy Card](https://sweepbase.net/cards/payy-card) - Self-custody, virtual + physical, Visa. [Official site](https://payy.network/)
+- [Pera Card](https://sweepbase.net/cards/pera-card) - Self-custody, virtual + physical, UK/EU/AU, 2% USDC cashback on purchases over $5, Visa Debit. [Official site](https://perawallet.app/pera-card/)
 - [Phantom Cash Card](https://sweepbase.net/cards/phantom-cash-card) - Self-custody, virtual only, USA, Visa Prepaid. [Official site](https://phantom.com/cash)
 - [Pintopay Card](https://sweepbase.net/cards/pintopay-card) - Custodial, virtual + physical, USA/UK/Canada/EU/LatAm, Visa + Mastercard Prepaid.
 - [Plasma One Card](https://sweepbase.net/cards/plasma-one-card) - Self-custody, virtual + physical, up to 4% in xpl tokens, Visa Prepaid. [Official site](https://www.plasma.to/one)
@@ -163,9 +166,9 @@ Where a card ships and holds relevant licenses. Cards often appear in several re
 
 **USA** (30 cards): Avici, Blockchain.com, CEX.IO, Crypto.com Visa, Cypher, Ether.fi Cash, Fold, Fuse, HODL, Kardpay, Kemy, Kontigo, Kripi, Ledger, MetaMask, Moonwell, Nebeus, Onboard, Oobit, Phantom Cash, Pintopay, Rizon, Solayer, Spritz, Tangem Pay, Tria, Tuyo, Wise, Zebec, Zypto.
 
-**United Kingdom** (44 cards): 1inch Debit, Binance, Bit.Store, Bitget, CEX.IO, COCA, Coinbase, CoinJar, Crypto.com Visa, Cryptopay, Cypher, Ether.fi Cash, Gnosis Pay, Hi.com, Kardpay, Kemy, Kolo, Krak, Kripi, Ledger, MetaMask, Moonwell, Nebeus, Onboard, Oobit, Osmosis Pay, Pintopay, Plutus, Ready, Rebind, RedotPay, Rizon, Solflare, SpectroCoin, Spritz, SwissBorg, THORWallet, Tria, Tuyo, Utorg, WhiteBIT, Wise, Zebec, Zypto.
+**United Kingdom** (45 cards): 1inch Debit, Binance, Bit.Store, Bitget, CEX.IO, COCA, Coinbase, CoinJar, Crypto.com Visa, Cryptopay, Cypher, Ether.fi Cash, Gnosis Pay, Hi.com, Kardpay, Kemy, Kolo, Krak, Kripi, Ledger, MetaMask, Moonwell, Nebeus, Onboard, Oobit, Osmosis Pay, Pera, Pintopay, Plutus, Ready, Rebind, RedotPay, Rizon, Solflare, SpectroCoin, Spritz, SwissBorg, THORWallet, Tria, Tuyo, Utorg, WhiteBIT, Wise, Zebec, Zypto.
 
-**Europe (EEA)** (58 cards): 1inch Debit, Binance, BingX, Bit.Store, Bit2Me, Bitrefill, Bitsa, Bleap, Brighty, CEX.IO, COCA, Crypto.com Visa, Cryptopay, Cypher, Ether.fi Cash, Exodus, Gate, Gnosis Pay, Hi.com, HODL, Holyheld, Kardpay, Kemy, Kolo, Kontigo, Krak, Kripi, KuCard, Mercuryo Spend, MetaMask, Mobilum, Nebeus, OKX, Onboard, Oobit, Osmosis Pay, Pintopay, Plutus, Ready, Rebind, RedotPay, Solflare, SpectroCoin, Spritz, SwissBorg, Swissquote, Tangem Pay, THORWallet, Tria, Trustee, Tuyo, Utorg, WhiteBIT, Wise, xPortal, YouHodler, Zebec, Zypto.
+**Europe (EEA)** (59 cards): 1inch Debit, Binance, BingX, Bit.Store, Bit2Me, Bitrefill, Bitsa, Bleap, Brighty, CEX.IO, COCA, Crypto.com Visa, Cryptopay, Cypher, Ether.fi Cash, Exodus, Gate, Gnosis Pay, Hi.com, HODL, Holyheld, Kardpay, Kemy, Kolo, Kontigo, Krak, Kripi, KuCard, Mercuryo Spend, MetaMask, Mobilum, Nebeus, OKX, Onboard, Oobit, Osmosis Pay, Pera, Pintopay, Plutus, Ready, Rebind, RedotPay, Solflare, SpectroCoin, Spritz, SwissBorg, Swissquote, Tangem Pay, THORWallet, Tria, Trustee, Tuyo, Utorg, WhiteBIT, Wise, xPortal, YouHodler, Zebec, Zypto.
 
 **Canada** (27 cards): Bing, Bit.Store, Crypto.com Visa, Cypher, Ether.fi Cash, Kardpay, Kemy, Kolo, Kripi, Ledger, MetaMask, Nebeus, Onboard, Oobit, Osmosis Pay, Pintopay, Rizon, Shakepay, Spritz, THORWallet, TokenPocket, Tria, Tuyo, Wealthsimple, Wise, Zebec, Zypto.
 
@@ -181,9 +184,9 @@ Where a card ships and holds relevant licenses. Cards often appear in several re
 
 Custodial means an exchange or issuer holds your crypto and settles in fiat at checkout. Self-custody means the card pulls from a wallet you control, on-chain, at the moment of purchase. Different security model, different tax treatment, different failure modes.
 
-**Self-Custody** (46 cards): 1inch Debit, AmpBlack, Avalanche, Avici, Bleap, Cypher, Deblock, Decaf, Ether.fi Cash, Exa, Exodus, Fiat24, Fuse, Gnosis Pay, imToken, Jupiter, Kontigo, Ledger, Mercuryo Spend, MetaMask, Moonwell, Morph, Offramp, Oobit, Orbitx, Osmosis Pay, Payy, Phantom Cash, Plasma One, Pyra, Ready, Rebind, Rizon, Solayer, Solflare, Solid, Tangem Pay, TapX, THORWallet, TokenPocket, Tria, Tuyo, Utorg, Xplace, xPortal, Zypto.
+**Self-Custody** (47 cards): 1inch Debit, AmpBlack, Avalanche, Avici, Bleap, Cypher, Deblock, Decaf, Ether.fi Cash, Exa, Exodus, Fiat24, Fuse, Gnosis Pay, imToken, Jupiter, Kontigo, Ledger, Mercuryo Spend, MetaMask, Moonwell, Morph, Offramp, Oobit, Orbitx, Osmosis Pay, Payy, Pera, Phantom Cash, Plasma One, Pyra, Ready, Rebind, Rizon, Solayer, Solflare, Solid, Tangem Pay, TapX, THORWallet, TokenPocket, Tria, Tuyo, Utorg, Xplace, xPortal, Zypto.
 
-**Custodial** (81 cards): Airtm, Based, Binance, Bing, BingX, BipTap, Bit.Store, Bit2Me, Bitget, Bitpanda, BitPay, Bitrefill, Bitsa, Bitstack, Blockchain.com, Brighty, Bybit, Cardano, CEX.IO, Coinbase, CoinJar, CoinW, CoinZoom, Crypto.com Visa, Cryptomus, Cryptopay, Decard, Emoney, Eversend, Extsy, Fizen, Fold, Gate, Gemini Credit, Hi.com, HODL, Kardpay, Karta, KAST, Kazepay, Kemy, Keytom, Krak, Kraken, Kripi, KuCard, Lemon, MaxSwap, Mobilum, Nebeus, Nexo, Noones, OffGrid, OKX, Onboard, Pintopay, Plutus, RedotPay, Revolut, Ripio, SafePal, Shakepay, SolCard, SpectroCoin, Stables, SwissBorg, Swissquote, Tap, Trade Republic, Trustee, UltimoPay, Uphold, Venmo Credit, Volet, Wayex, Wealthsimple, WhiteBIT, Wirex, Wise, Xapo Bank, YouHodler.
+**Custodial** (83 cards): Airtm, Based, Binance, Bing, BingX, BipTap, Bit.Store, Bit2Me, Bitget, BitMart, Bitpanda, BitPay, Bitrefill, Bitsa, Bitstack, Blockchain.com, Brighty, Bybit, Cardano, CEX.IO, Coinbase, CoinJar, CoinW, CoinZoom, Crypto.com Visa, Cryptomus, Cryptopay, Decard, Emoney, Eversend, Extsy, Fizen, Fold, Gate, Gemini Credit, Hi.com, HODL, Kardpay, Karta, KAST, Kazepay, Kemy, Keytom, Krak, Kraken, Kripi, KuCard, Lemon, MaxSwap, MEXC, Mobilum, Nebeus, Nexo, Noones, OffGrid, OKX, Onboard, Pintopay, Plutus, RedotPay, Revolut, Ripio, SafePal, Shakepay, SolCard, SpectroCoin, Stables, SwissBorg, Swissquote, Tap, Trade Republic, Trustee, UltimoPay, Uphold, Venmo Credit, Volet, Wayex, Wealthsimple, WhiteBIT, Wirex, Wise, Xapo Bank, YouHodler.
 
 ### By Use Case
 
@@ -191,11 +194,11 @@ Rough groupings based on how these cards are actually used in practice. A card c
 
 **Yield-Bearing (APY on balance)** (55 cards): 1inch Debit, AmpBlack, Avalanche, Avici, Bit2Me, Bitget, Bitpanda, Bleap, Brighty, Bybit, Cardano, CEX.IO, COCA, Coinbase, CoinZoom, Crypto.com Visa, Cypher, Deblock, Decard, Ether.fi Cash, Exa, Exodus, Fizen, Fold, Fuse, Gate, Gemini Credit, Kardpay, KAST, Kontigo, Krak, Kraken, Kripi, KuCard, Mobilum, Moonwell, Nebeus, Nexo, Plasma One, Pyra, Ready, RedotPay, Revolut, SafePal, Solayer, Solid, SwissBorg, Tangem Pay, Trade Republic, Tria, Tuyo, Wealthsimple, Wise, Xapo Bank, Xplace.
 
-**Stablecoin Top-Ups (USDC/USDT)** (82 cards): 1inch Debit, Airtm, Avalanche, Based, Binance, Bing, BingX, Bit.Store, Bit2Me, Bitget, BitPay, Bitrefill, Bleap, Blockchain.com, Bybit, Cardano, CEX.IO, COCA, Coinbase, CoinW, CoinZoom, Cryptomus, Cypher, Deblock, Decaf, Decard, Emoney, Ether.fi Cash, Exa, Exodus, Extsy, Fiat24, Fizen, Fuse, Gate, Gnosis Pay, HODL, imToken, Jupiter, Karta, KAST, Kazepay, Kemy, Keytom, Kolo, KuCard, MaxSwap, MetaMask, Moonwell, Noones, OKX, Onboard, Oobit, Orbitx, Payy, Pintopay, Plasma One, Pyra, Ready, Rebind, RedotPay, Revolut, Rizon, SafePal, SolCard, Solflare, Solid, Stables, SwissBorg, Tangem Pay, Tap, THORWallet, TokenPocket, Tria, Trustee, Tuyo, UltimoPay, UR, Volet, Wayex, WhiteBIT, Xplace.
+**Stablecoin Top-Ups (USDC/USDT)** (85 cards): 1inch Debit, Airtm, Avalanche, Based, Binance, Bing, BingX, Bit.Store, Bit2Me, Bitget, BitMart, BitPay, Bitrefill, Bleap, Blockchain.com, Bybit, Cardano, CEX.IO, COCA, Coinbase, CoinW, CoinZoom, Cryptomus, Cypher, Deblock, Decaf, Decard, Emoney, Ether.fi Cash, Exa, Exodus, Extsy, Fiat24, Fizen, Fuse, Gate, Gnosis Pay, HODL, imToken, Jupiter, Karta, KAST, Kazepay, Kemy, Keytom, Kolo, KuCard, MaxSwap, MetaMask, MEXC, Moonwell, Noones, OKX, Onboard, Oobit, Orbitx, Payy, Pera, Pintopay, Plasma One, Pyra, Ready, Rebind, RedotPay, Revolut, Rizon, SafePal, SolCard, Solflare, Solid, Stables, SwissBorg, Tangem Pay, Tap, THORWallet, TokenPocket, Tria, Trustee, Tuyo, UltimoPay, UR, Volet, Wayex, WhiteBIT, Xplace.
 
 **Zero FX Fee** (48 cards): 1inch Debit, Avici, Bing, BingX, Bit2Me, Bitpanda, BitPay, Bitrefill, Bleap, Blockchain.com, COCA, Coinbase, Crypto.com Visa, Deblock, Decaf, Fold, Gemini Credit, Gnosis Pay, Holyheld, KAST, Kolo, Krak, Kraken, MetaMask, Moonwell, Nebeus, Pyra, Ready, Rebind, Rizon, Shakepay, SolCard, Solflare, SpectroCoin, Stables, SwissBorg, Tangem Pay, TapX, Trade Republic, Trustee, Uphold, UR, Volet, Wayex, Wealthsimple, Wirex, Xapo Bank, Zebec.
 
-**Virtual + Physical** (98 cards): 1inch Debit, AmpBlack, Avalanche, Avici, Based, Binance, Bing, BingX, BipTap, Bit.Store, Bit2Me, Bitget, Bitpanda, Bitrefill, Bitsa, Bitstack, Bleap, Blockchain.com, Brighty, Bybit, Cardano, CEX.IO, COCA, Coinbase, CoinJar, CoinW, CoinZoom, Crypto.com Visa, Cryptopay, Cypher, Deblock, Decaf, Decard, Ether.fi Cash, Exa, Fizen, Fold, Gate, Gemini Credit, Gnosis Pay, Hi.com, Holyheld, imToken, KAST, Kazepay, Kemy, Kolo, Kontigo, Krak, Kraken, KuCard, Ledger, Lemon, MetaMask, Mobilum, Moonwell, Nebeus, Nexo, Offramp, Oobit, Orbitx, Osmosis Pay, Payy, Pintopay, Plasma One, Plutus, Pyra, Ready, RedotPay, Revolut, Ripio, Rizon, SafePal, Shakepay, Solayer, Solflare, Solid, SpectroCoin, Spritz, Stables, SwissBorg, Tap, TapX, Tria, Trustee, UltimoPay, Uphold, Volet, Wayex, Wealthsimple, WhiteBIT, Wirex, Wise, Xapo Bank, Xplace, xPortal, YouHodler, Zypto.
+**Virtual + Physical** (101 cards): 1inch Debit, AmpBlack, Avalanche, Avici, Based, Binance, Bing, BingX, BipTap, Bit.Store, Bit2Me, Bitget, BitMart, Bitpanda, Bitrefill, Bitsa, Bitstack, Bleap, Blockchain.com, Brighty, Bybit, Cardano, CEX.IO, COCA, Coinbase, CoinJar, CoinW, CoinZoom, Crypto.com Visa, Cryptopay, Cypher, Deblock, Decaf, Decard, Ether.fi Cash, Exa, Fizen, Fold, Gate, Gemini Credit, Gnosis Pay, Hi.com, Holyheld, imToken, KAST, Kazepay, Kemy, Kolo, Kontigo, Krak, Kraken, KuCard, Ledger, Lemon, MetaMask, MEXC, Mobilum, Moonwell, Nebeus, Nexo, Offramp, Oobit, Orbitx, Osmosis Pay, Payy, Pera, Pintopay, Plasma One, Plutus, Pyra, Ready, RedotPay, Revolut, Ripio, Rizon, SafePal, Shakepay, Solayer, Solflare, Solid, SpectroCoin, Spritz, Stables, SwissBorg, Tap, TapX, Tria, Trustee, UltimoPay, Uphold, Volet, Wayex, Wealthsimple, WhiteBIT, Wirex, Wise, Xapo Bank, Xplace, xPortal, YouHodler, Zypto.
 
 ## Guides and Research
 
@@ -222,7 +225,7 @@ Long-form analysis and regional breakdowns. All free, no signup wall.
 
 ## Tools
 
-- [Sweepbase Card Database](https://sweepbase.net/cards) - All 133 cards, filterable by region, network, custody, cashback, and more.
+- [Sweepbase Card Database](https://sweepbase.net/cards) - All 136 cards, filterable by region, network, custody, cashback, and more.
 - [Sweepbase Comparison Tool](https://sweepbase.net/compare) - Side-by-side comparison of up to four cards at a time.
 - [Sweepbase Fee Calculator](https://sweepbase.net/calculator) - Estimate your real annual cost including FX, ATM, and cashback offsets for your actual spend pattern.
 
