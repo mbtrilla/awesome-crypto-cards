@@ -228,6 +228,7 @@ Long-form analysis and regional breakdowns. All free, no signup wall.
 - [Sweepbase Card Database](https://sweepbase.net/cards) - All 136 cards, filterable by region, network, custody, cashback, and more.
 - [Sweepbase Comparison Tool](https://sweepbase.net/compare) - Side-by-side comparison of up to four cards at a time.
 - [Sweepbase Fee Calculator](https://sweepbase.net/calculator) - Estimate your real annual cost including FX, ATM, and cashback offsets for your actual spend pattern.
+- [usdtcard.net](https://usdtcard.net) - Independent USDT virtual card reviews with a live fee tracker and total-cost calculator across 13 languages.
 
 ## Related Lists
 
