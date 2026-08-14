@@ -234,6 +234,7 @@ Long-form analysis and regional breakdowns. All free, no signup wall.
 - [awesome-crypto](https://github.com/Quantalabs/awesome-crypto) - General cryptocurrency resources.
 - [awesome-decentralized-finance](https://github.com/ong/awesome-decentralized-finance) - DeFi-specific protocols and tooling.
 - [awesome-ethereum](https://github.com/bekatom/awesome-ethereum) - Ethereum ecosystem resources.
+- [n8n-solana-price-alert](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow, alerts on Telegram when a Solana SPL token price crosses a threshold
 
 ## Contributing
 
