@@ -219,6 +219,7 @@ Long-form analysis and regional breakdowns. All free, no signup wall.
 - [Crypto Card USA Tax Guide 2026](https://sweepbase.net/guides/crypto-card-usa-tax-guide-2026) - Every swipe of a custodial card is a taxable disposition. Here's how to track it without losing your weekend.
 - [Coinbase Card Review 2026](https://sweepbase.net/guides/coinbase-card-review-2026) - Deep dive: rewards math, hidden spread on conversions, and whether it's worth the account lock-in.
 - [Crypto.com Card Review 2026](https://sweepbase.net/guides/crypto-com-card-review-2026) - What happened after the 2022 CRO staking cuts and how the current tiers compare to 2021's.
+- [The State of Crypto Card Fees 2026](https://nomadcrypto.cards/en/crypto-card-fees-report-2026) - Independent data study across 22 cards: average all-in cost 1.92% (~€19 per €1,000 spent abroad), and 9 of 22 don't publish their conversion fee. Free, no signup.
 - [Binance Card Review 2026](https://sweepbase.net/guides/binance-card-review-2026) - The old Visa card is dead (Dec 2023). This is about the new Mastercard product and its 2% cashback.
 - [Bybit vs Ether.fi 2026](https://sweepbase.net/guides/bybit-vs-etherfi-2026) - Custodial exchange card vs a DeFi self-custody card. Same region, very different tradeoffs.
 - [Crypto Card Comparison](https://sweepbase.net/guides/crypto-card-comparison) - The methodology behind the Sweepbase comparison tool — what we track and what we don't.
