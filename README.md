@@ -256,6 +256,7 @@ Long-form guides and original research. All free, no signup wall.
 - [Best crypto cards for beginners in 2026](https://sweepbase.net/guides/best-crypto-cards-for-beginners) - If you have never used a crypto card before, start here. Simple options with no staking or lockup required.
 - [Crypto card comparison: what to look for in 2026](https://sweepbase.net/guides/crypto-card-comparison) - Fees, cashback rates, custody models, Visa vs Mastercard. What to look at when choosing a crypto card in 2026.
 - [Sweepbase Data Changelog: every card data update](https://sweepbase.net/data-changelog) - Month-by-month log of every fee change, cashback revision, card addition and discontinuation across the Sweepbase card database.
+- [UCard Observer – Crypto Card Status Radar & Open Dataset](https://ucard.observer/en/) - Live status tracking for 342 crypto and stablecoin cards (active, winding down, closed) with hand-verified fees, cashback terms, KYC and region rules, plus a CC BY 4.0 open dataset of card profiles.
 
 ## Tools
 
